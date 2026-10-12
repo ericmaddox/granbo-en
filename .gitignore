@@ -1,0 +1,27 @@
+# ROM files (Do NOT distribute copyrighted ROM binaries)
+*.gba
+*.bin
+*.rom
+rom/*.gba
+0291 - Granbo (J)(Lord Moyne).gba
+
+# Save files & Emulator data
+*.sav
+*.srm
+*.state*
+
+# Scratch & Temporary work files
+scratch/
+scratch_*
+*.tmp
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

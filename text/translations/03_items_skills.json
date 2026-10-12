@@ -1,0 +1,530 @@
+[
+  {
+    "id": 0,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 1,
+    "offset": "0x26e6e4",
+    "jp": "ウォ-ティア{BREAK}",
+    "en": "Watia{BREAK}"
+  },
+  {
+    "id": 2,
+    "offset": "0x26e6f2",
+    "jp": "ボルカニア{BREAK}",
+    "en": "Volcania{BREAK}"
+  },
+  {
+    "id": 3,
+    "offset": "0x26e6fe",
+    "jp": "フォレスティア{BREAK}",
+    "en": "Forestia{BREAK}"
+  },
+  {
+    "id": 4,
+    "offset": "0x26e70e",
+    "jp": "フレイマ-{BREAK}",
+    "en": "Flamor{BREAK}"
+  },
+  {
+    "id": 5,
+    "offset": "0x26e71a",
+    "jp": "マッドアクア{BREAK}",
+    "en": "Mud Aqua{BREAK}"
+  },
+  {
+    "id": 6,
+    "offset": "0x26e728",
+    "jp": "ワ-ルドチェンジタワ-{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 7,
+    "offset": "0x26e728",
+    "jp": "ワ-ルドチェンジタワ-{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 8,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 9,
+    "offset": "0x26e740",
+    "jp": "ブロッサムタウン{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 10,
+    "offset": "0x26e752",
+    "jp": "ハントグロ-ブ{K_396}{K_397}{K_398}{BREAK}",
+    "en": "Blossom Town{BREAK}"
+  },
+  {
+    "id": 11,
+    "offset": "0x26e768",
+    "jp": "アプリコットタウン{BREAK}",
+    "en": "Hunt Grove{BREAK}"
+  },
+  {
+    "id": 12,
+    "offset": "0x26e77c",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Apricot Town{BREAK}"
+  },
+  {
+    "id": 13,
+    "offset": "0x26e794",
+    "jp": "グラッチェの{K_391}{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 14,
+    "offset": "0x26e7a4",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Grazie's Room{BREAK}"
+  },
+  {
+    "id": 15,
+    "offset": "0x26e7b2",
+    "jp": "スカイシャ-ク{K_483}{K_255}アジト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 16,
+    "offset": "0x26e7cc",
+    "jp": "08?????{BREAK}",
+    "en": "Sky Shark Hideout{BREAK}"
+  },
+  {
+    "id": 17,
+    "offset": "0x26e7dc",
+    "jp": "09?????{BREAK}",
+    "en": "Area 08{BREAK}"
+  },
+  {
+    "id": 18,
+    "offset": "0x26e7ec",
+    "jp": "マスカットタウン{BREAK}",
+    "en": "Area 09{BREAK}"
+  },
+  {
+    "id": 19,
+    "offset": "0x26e7fe",
+    "jp": "ドウクツ{K_396}{K_397}{K_398}{BREAK}",
+    "en": "Muscat Town{BREAK}"
+  },
+  {
+    "id": 20,
+    "offset": "0x26e80e",
+    "jp": "ピ-チタウン{BREAK}",
+    "en": "Cave Area{BREAK}"
+  },
+  {
+    "id": 21,
+    "offset": "0x26e81c",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Peach Town{BREAK}"
+  },
+  {
+    "id": 22,
+    "offset": "0x26e834",
+    "jp": "0E???{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 23,
+    "offset": "0x26e840",
+    "jp": "0Fまち{BREAK}",
+    "en": "Area 0E{BREAK}"
+  },
+  {
+    "id": 24,
+    "offset": "0x26e84a",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Town 0F{BREAK}"
+  },
+  {
+    "id": 25,
+    "offset": "0x26e858",
+    "jp": "11くうこう?{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 26,
+    "offset": "0x26e868",
+    "jp": "バトルスタジアム{BREAK}",
+    "en": "Sky Port 11{BREAK}"
+  },
+  {
+    "id": 27,
+    "offset": "0x26e87a",
+    "jp": "なぞの{K_396}{K_397}しせつ{BREAK}",
+    "en": "Battle Stadium{BREAK}"
+  },
+  {
+    "id": 28,
+    "offset": "0x26e88c",
+    "jp": "14????{BREAK}",
+    "en": "Secret Facility{BREAK}"
+  },
+  {
+    "id": 29,
+    "offset": "0x26e89a",
+    "jp": "{K_481}ダンジョン{BREAK}",
+    "en": "Area 14{BREAK}"
+  },
+  {
+    "id": 30,
+    "offset": "0x26e8a8",
+    "jp": "16ひくうていないぶ{BREAK}",
+    "en": "Dungeon 1{BREAK}"
+  },
+  {
+    "id": 31,
+    "offset": "0x26e8be",
+    "jp": "キウイタウン{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 32,
+    "offset": "0x26e8cc",
+    "jp": "キウイタウン{BREAK}",
+    "en": "Kiwi Town{BREAK}"
+  },
+  {
+    "id": 33,
+    "offset": "0x26e8da",
+    "jp": "ココナッツタウン{BREAK}",
+    "en": "Kiwi Town{BREAK}"
+  },
+  {
+    "id": 34,
+    "offset": "0x26e8ec",
+    "jp": "ココナッツタウン{BREAK}",
+    "en": "Coconut Town{BREAK}"
+  },
+  {
+    "id": 35,
+    "offset": "0x26e8fe",
+    "jp": "ホテル'グランドボルカニア{BREAK}",
+    "en": "Coconut Town{BREAK}"
+  },
+  {
+    "id": 36,
+    "offset": "0x26e91a",
+    "jp": "ホテル'グランドボルカニア{BREAK}",
+    "en": "Grand Volcania Hotel{BREAK}"
+  },
+  {
+    "id": 37,
+    "offset": "0x26e936",
+    "jp": "タワ-へのぬけ{K_430}{BREAK}",
+    "en": "Grand Volcania Hotel{BREAK}"
+  },
+  {
+    "id": 38,
+    "offset": "0x26e948",
+    "jp": "エ-ゲのひみつダンジョン{BREAK}",
+    "en": "Tower Secret Pass{BREAK}"
+  },
+  {
+    "id": 39,
+    "offset": "0x26e962",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Aege's Secret Cave{BREAK}"
+  },
+  {
+    "id": 40,
+    "offset": "0x26e97a",
+    "jp": "20ひくうていないぶ{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 41,
+    "offset": "0x26e990",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 42,
+    "offset": "0x26e99e",
+    "jp": "22くうこう??{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 43,
+    "offset": "0x26e9b0",
+    "jp": "23ひくうていないぶ{BREAK}",
+    "en": "Airport Area{BREAK}"
+  },
+  {
+    "id": 44,
+    "offset": "0x26e9c6",
+    "jp": "タワ-れんらく{K_430}{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 45,
+    "offset": "0x26e9d8",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Tower Pass{BREAK}"
+  },
+  {
+    "id": 46,
+    "offset": "0x26e9e6",
+    "jp": "ブル-べリ-タウン{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 47,
+    "offset": "0x26e9fa",
+    "jp": "ハルナの{K_391}{BREAK}",
+    "en": "Blueberry Town{BREAK}"
+  },
+  {
+    "id": 48,
+    "offset": "0x26ea06",
+    "jp": "ドリ-ムマウンテン{BREAK}",
+    "en": "Haruna's Room{BREAK}"
+  },
+  {
+    "id": 49,
+    "offset": "0x26ea1a",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Dream Mountain{BREAK}"
+  },
+  {
+    "id": 50,
+    "offset": "0x26ea32",
+    "jp": "2a????{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 51,
+    "offset": "0x26ea40",
+    "jp": "2b????{BREAK}",
+    "en": "Area 2A{BREAK}"
+  },
+  {
+    "id": 52,
+    "offset": "0x26ea4e",
+    "jp": "{K_482}ダンジョン{BREAK}",
+    "en": "Area 2B{BREAK}"
+  },
+  {
+    "id": 53,
+    "offset": "0x26ea5c",
+    "jp": "ロ-ズタウン{BREAK}",
+    "en": "Dungeon 2{BREAK}"
+  },
+  {
+    "id": 54,
+    "offset": "0x26ea6a",
+    "jp": "カトレアタウン{BREAK}",
+    "en": "Rose Town{BREAK}"
+  },
+  {
+    "id": 55,
+    "offset": "0x26ea7a",
+    "jp": "バミュ-ダのきち{BREAK}",
+    "en": "Cattleya Town{BREAK}"
+  },
+  {
+    "id": 56,
+    "offset": "0x26ea8c",
+    "jp": "30まち{BREAK}",
+    "en": "Bermuda Base{BREAK}"
+  },
+  {
+    "id": 57,
+    "offset": "0x26ea96",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Town 30{BREAK}"
+  },
+  {
+    "id": 58,
+    "offset": "0x26eaae",
+    "jp": "32ひくうていないぶ{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 59,
+    "offset": "0x26eac4",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 60,
+    "offset": "0x26ead2",
+    "jp": "{K_483}ダンジョン{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 61,
+    "offset": "0x26eae0",
+    "jp": "バトルスタジアム{BREAK}",
+    "en": "Dungeon 3{BREAK}"
+  },
+  {
+    "id": 62,
+    "offset": "0x26eaf2",
+    "jp": "バミュ-ダのひみつきち{BREAK}",
+    "en": "Battle Stadium{BREAK}"
+  },
+  {
+    "id": 63,
+    "offset": "0x26eb0a",
+    "jp": "ロ-ズタウン{BREAK}",
+    "en": "Bermuda Secret Base{BREAK}"
+  },
+  {
+    "id": 64,
+    "offset": "0x26eb18",
+    "jp": "スカイシャ-ク{K_376}きょ{K_412}{BREAK}",
+    "en": "Rose Town{BREAK}"
+  },
+  {
+    "id": 65,
+    "offset": "0x26eb30",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Sky Shark HQ{BREAK}"
+  },
+  {
+    "id": 66,
+    "offset": "0x26eb48",
+    "jp": "3A????{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 67,
+    "offset": "0x26eb56",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Area 3A{BREAK}"
+  },
+  {
+    "id": 68,
+    "offset": "0x26eb64",
+    "jp": "{K_483}ダンジョン{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 69,
+    "offset": "0x26eb72",
+    "jp": "ワ-ルドチェンジタワ-{BREAK}",
+    "en": "Dungeon 4{BREAK}"
+  },
+  {
+    "id": 70,
+    "offset": "0x26eb8a",
+    "jp": "ヒミツダンジョン1{BREAK}",
+    "en": "World Change Tower{BREAK}"
+  },
+  {
+    "id": 71,
+    "offset": "0x26eb9e",
+    "jp": "ヒミツダンジョン2{BREAK}",
+    "en": "Secret Dungeon 1{BREAK}"
+  },
+  {
+    "id": 72,
+    "offset": "0x26ebb2",
+    "jp": "ヒミツダンジョン3{BREAK}",
+    "en": "Secret Dungeon 3{BREAK}"
+  },
+  {
+    "id": 73,
+    "offset": "0x26ebc6",
+    "jp": "ヒミツダンジョン4{BREAK}",
+    "en": "Secret Dungeon 4{BREAK}"
+  },
+  {
+    "id": 74,
+    "offset": "0x26ebda",
+    "jp": "ヒミツダンジョン5{BREAK}",
+    "en": "Secret Dungeon 5{BREAK}"
+  },
+  {
+    "id": 75,
+    "offset": "0x26ebee",
+    "jp": "ヒミツダンジョン6{BREAK}",
+    "en": "Secret Dungeon 6{BREAK}"
+  },
+  {
+    "id": 76,
+    "offset": "0x073201",
+    "jp": "{CTRL_82b5}{G_3504}{CTRL_f61c}{G_15863}{G_2046}{CTRL_d420}{CTRL_d0f7}{CTRL_f6fb}{G_22263}{G_1534}せ{G_656}{K_288}ホ{CTRL_8020}{CTRL_f021}{G_8226}{CTRL_f623}{G_27895}{G_3838}{CTRL_854c}{CTRL_c921}{G_24577}こ{G_3432}{G_3401}{CTRL_e24b}{G_4632}{G_21096}{CTRL_d202}{G_9482}{G_27120}{G_3067}{G_9288}{G_8472}ゲせ{G_8226}{CTRL_d323}{CTRL_ddf7}{K_510}{CTRL_f620}{G_14583}{K_255}{G_10272}{G_643}{G_12464}{K_444}Q{CTRL_d447}{G_10745}7{K_256}{CTRL_8406}ま{CTRL_8800}ま ",
+    "en": ""
+  },
+  {
+    "id": 77,
+    "offset": "0x073275",
+    "jp": "{G_693}{CTRL_f620}{G_9975}{K_511}Q{CTRL_f047}{G_22453}{G_20038}{G_17734}{CTRL_e046}{PORTRAIT_b4}{CTRL_82b0}{G_838}{G_19089}ぬ{G_17953}{G_21086}{CTRL_d046}{G_1128}つ{G_20953}{CTRL_80e2}{K_512}{G_16457}こ{CTRL_8768}も{CTRL_b000}{G_1842}{CTRL_c408}{G_1842}{G_24584}{G_1845}{CTRL_ae08}{G_1846}{CTRL_c008}{G_1846}{G_8200}{G_1847}{CTRL_f608}{CTRL_fcf7}{G_1533}せ{G_656}{K_288}ホ{G_28704}{CTRL_f021}{G_12322}{CTRL_f623}{G_4855}{G_20734}{G_18502}ぬ{CTRL_c123}{CTRL_815e}も{G_10025}kち{G_1828}{CTRL_ac4d}{G_1862}{CTRL_b84f}{G_1094}{CTRL_a190}{G_25088}{CTRL_8846}{K_536}ゲ{G_17699}{G_18502}ご{G_1384}{G_2193}{CTRL_c8e0}{G_6872}{CTRL_e808}{G_6872}{G_2056}{K_306}{G_1331}{G_16536}む{CTRL_8368}{G_2114}{G_1746}{G_20769}{G_1110}ロ{G_30757}{CTRL_815f}{CTRL_f142}{G_9937}{G_1820}{K_292}{G_1332}{CTRL_de2c}{G_20441}も{G_30753}{G_15710}{G_3624}{G_32208}{CTRL_b049}{G_16384}{K_536}{CTRL_8868}{CTRL_9b23}{CTRL_c000}{CTRL_8020}0{G_912}{K_288}{G_10384}{G_4128}{CTRL_d821}{G_9719}{G_19192}も{CTRL_d023}ヴ{G_3624}{G_29904}{CTRL_8049}{G_16384}{K_536}{CTRL_9068}{CTRL_9b23}{CTRL_c000}{CTRL_8020}0{G_912}{K_288}{G_14480}{G_8224}{CTRL_d821}{G_4599}{G_28408}{CTRL_b84f}{CTRL_b846}{CTRL_9b23}{CTRL_c000}{CTRL_b626}0{G_918}{K_293}{G_10389}{G_14368}{G_16929}{CTRL_d846}{G_1015}{G_26872}{G_1096}{G_26728}{G_8265}{G_9500}{CTRL_93f0}{G_2043}{CTRL_f81c}{CTRL_c000}{G_16411}{CTRL_c001}{K_281}{G_2305}{CTRL_891a}{G_25601}{CTRL_c01a}{G_16416}{CTRL_8100}も{K_400}{G_662}{G_30869}{G_14368}{G_1313}{G_15138}{CTRL_d81c}{CTRL_f6f7}{G_17146}{G_3142}{CTRL_be32}{CTRL_9b23} ",
+    "en": ""
+  },
+  {
+    "id": 78,
+    "offset": "0x073281",
+    "jp": "{G_22453}{G_20038}{G_17734}{CTRL_e046}{PORTRAIT_b4}{CTRL_82b0}{G_838}{G_19089}ぬ{G_17953}{G_21086}{CTRL_d046}{G_1128}つ{G_20953}{CTRL_80e2}{K_512}{G_16457}こ{CTRL_8768}も{CTRL_b000}{G_1842}{CTRL_c408}{G_1842}{G_24584}{G_1845}{CTRL_ae08}{G_1846}{CTRL_c008}{G_1846}{G_8200}{G_1847}{CTRL_f608}{CTRL_fcf7}{G_1533}せ{G_656}{K_288}ホ{G_28704}{CTRL_f021}{G_12322}{CTRL_f623}{G_4855}{G_20734}{G_18502}ぬ{CTRL_c123}{CTRL_815e}も{G_10025}kち{G_1828}{CTRL_ac4d}{G_1862}{CTRL_b84f}{G_1094}{CTRL_a190}{G_25088}{CTRL_8846}{K_536}ゲ{G_17699}{G_18502}ご{G_1384}{G_2193}{CTRL_c8e0}{G_6872}{CTRL_e808}{G_6872}{G_2056}{K_306}{G_1331}{G_16536}む{CTRL_8368}{G_2114}{G_1746}{G_20769}{G_1110}ロ{G_30757}{CTRL_815f}{CTRL_f142}{G_9937}{G_1820}{K_292}{G_1332}{CTRL_de2c}{G_20441}も{G_30753}{G_15710}{G_3624}{G_32208}{CTRL_b049}{G_16384}{K_536}{CTRL_8868}{CTRL_9b23}{CTRL_c000}{CTRL_8020}0{G_912}{K_288}{G_10384}{G_4128}{CTRL_d821}{G_9719}{G_19192}も{CTRL_d023}ヴ{G_3624}{G_29904}{CTRL_8049}{G_16384}{K_536}{CTRL_9068}{CTRL_9b23}{CTRL_c000}{CTRL_8020}0{G_912}{K_288}{G_14480}{G_8224}{CTRL_d821}{G_4599}{G_28408}{CTRL_b84f}{CTRL_b846}{CTRL_9b23}{CTRL_c000}{CTRL_b626}0{G_918}{K_293}{G_10389}{G_14368}{G_16929}{CTRL_d846}{G_1015}{G_26872}{G_1096}{G_26728}{G_8265}{G_9500}{CTRL_93f0}{G_2043}{CTRL_f81c}{CTRL_c000}{G_16411}{CTRL_c001}{K_281}{G_2305}{CTRL_891a}{G_25601}{CTRL_c01a}{G_16416}{CTRL_8100}も{K_400}{G_662}{G_30869}{G_14368}{G_1313}{G_15138}{CTRL_d81c}{CTRL_f6f7}{G_17146}{G_3142}{CTRL_be32}{CTRL_9b23} ",
+    "en": ""
+  },
+  {
+    "id": 79,
+    "offset": "0x073759",
+    "jp": "{G_949}{G_3100}{CTRL_c148}{G_2190}{CTRL_c131}{CTRL_b186}{G_25636}{K_512}{G_4121}{G_2184}{G_4152}{G_2432}{G_2308}{G_22292}{G_1833}{K_477}{G_22560}オ{CTRL_f620}{CTRL_a3f7}{G_2044}{CTRL_d420}{G_5367}{G_4345}{K_444}Qや{CTRL_f000}{K_429}1{G_1205}{CTRL_824b}{CTRL_9268}{CTRL_d200}{G_4632}{G_9576}{CTRL_ccf0}{K_504}Q{G_29767}{G_10559}{G_12296}{G_1205}{G_3356}{CTRL_f61c}{G_26615}{CTRL_f6fb}{CTRL_83f7}{K_251}{G_10272}{G_17539}{G_820}{G_8264}{K_384}{CTRL_f620}{G_32759}{G_12540}{K_444}Q{CTRL_ff47}{K_255} ",
+    "en": ""
+  },
+  {
+    "id": 80,
+    "offset": "0x0737ad",
+    "jp": "{G_1205}{G_3356}{CTRL_f61c}{G_26615}{CTRL_f6fb}{CTRL_83f7}{K_251}{G_10272}{G_17539}{G_820}{G_8264}{K_384}{CTRL_f620}{G_32759}{G_12540}{K_444}Q{CTRL_ff47}{K_255} ",
+    "en": ""
+  },
+  {
+    "id": 81,
+    "offset": "0x0737d5",
+    "jp": "{G_693}{CTRL_f620}{G_30455}{K_508}Q{G_12359}{CTRL_82b5}{G_1456}{CTRL_e81c}ゲ{G_5160}{G_1489}せ{G_656}{K_292}{G_2196}{G_2080}{CTRL_e021}{CTRL_8022}{CTRL_f623}{CTRL_80f7}{G_7931}{CTRL_c04a}{CTRL_9b23}{CTRL_a000}{CTRL_c020}0{K_400}{G_8340}{G_4128}{CTRL_d721}{CTRL_cbf7}{CTRL_e8fd}{K_360}{CTRL_e830}{CTRL_e160}{CTRL_8921}{CTRL_8800}{G_4162}{G_21209}{CTRL_d820}{G_11255}{CTRL_d7fd}{CTRL_d5f7}{G_1275}{CTRL_d420}{CTRL_bef7}{K_248}せ{K_400}{G_10384}{G_3612}ぜそ{CTRL_8e23}{G_23031}{G_3834}{CTRL_8148}{K_392}{G_2080}ぼ{G_4136}{G_21200}{CTRL_d820}{G_5367}{CTRL_d7fd}{CTRL_bef7}{G_1275}{CTRL_d420}{CTRL_a7f7}{K_248}せ{K_400}{G_10384}{G_3612}ぜそ{CTRL_8e23}{G_17143}{G_762}{G_12464}{K_444}Q{G_22599}{G_9990}{G_4104}ち{G_4099}{G_949}{G_3100}{CTRL_c148}{G_2190}{CTRL_c131}{CTRL_b186}{G_25636}{K_512}{G_4121}{G_2184}{G_4152}{G_2432}{G_2308}{G_22292}{G_1833}{K_477}{G_22560}オ{CTRL_f620}{G_3575}{G_2044}{CTRL_d420}{G_32503}{G_4344}{K_444}Qや{CTRL_f000}{K_429}1{G_1205}{CTRL_824b}{CTRL_9268}{CTRL_d200}{G_4632}{G_9576}{G_14064}{K_504}Q{CTRL_8447}{G_10559}{G_28680}{G_3509}{CTRL_f61c}{CTRL_d2f7}{CTRL_f6fa}{CTRL_eef7}{K_250}{G_11814}{K_387}{CTRL_f620}{CTRL_edf7}{G_5627}{PORTRAIT_4c}{CTRL_c921}{G_24576}こ{G_4968}{G_4169}{G_9506}{G_2800}{G_4856}{CTRL_e04b}{K_280}ゲ{G_24608}{G_8226}{CTRL_d323}{G_32503}{CTRL_85fb}{CTRL_c921}{G_24577}こ{G_3432}{G_3657}{CTRL_e24b}{G_4632}{G_21096}{CTRL_d202}{G_9226}{CTRL_f6f0}{G_3071}{G_9288}{G_8472}ゲせ{G_8226}{CTRL_d323}{G_27383}{CTRL_eefb}{G_11904}{G_28803}{K_444}Qや{CTRL_d400}{G_10745}7{K_258}{CTRL_e006}ぽ ",
+    "en": ""
+  },
+  {
+    "id": 82,
+    "offset": "0x0737e1",
+    "jp": "{CTRL_82b5}{G_1456}{CTRL_e81c}ゲ{G_5160}{G_1489}せ{G_656}{K_292}{G_2196}{G_2080}{CTRL_e021}{CTRL_8022}{CTRL_f623}{CTRL_80f7}{G_7931}{CTRL_c04a}{CTRL_9b23}{CTRL_a000}{CTRL_c020}0{K_400}{G_8340}{G_4128}{CTRL_d721}{CTRL_cbf7}{CTRL_e8fd}{K_360}{CTRL_e830}{CTRL_e160}{CTRL_8921}{CTRL_8800}{G_4162}{G_21209}{CTRL_d820}{G_11255}{CTRL_d7fd}{CTRL_d5f7}{G_1275}{CTRL_d420}{CTRL_bef7}{K_248}せ{K_400}{G_10384}{G_3612}ぜそ{CTRL_8e23}{G_23031}{G_3834}{CTRL_8148}{K_392}{G_2080}ぼ{G_4136}{G_21200}{CTRL_d820}{G_5367}{CTRL_d7fd}{CTRL_bef7}{G_1275}{CTRL_d420}{CTRL_a7f7}{K_248}せ{K_400}{G_10384}{G_3612}ぜそ{CTRL_8e23}{G_17143}{G_762}{G_12464}{K_444}Q{G_22599}{G_9990}{G_4104}ち{G_4099}{G_949}{G_3100}{CTRL_c148}{G_2190}{CTRL_c131}{CTRL_b186}{G_25636}{K_512}{G_4121}{G_2184}{G_4152}{G_2432}{G_2308}{G_22292}{G_1833}{K_477}{G_22560}オ{CTRL_f620}{G_3575}{G_2044}{CTRL_d420}{G_32503}{G_4344}{K_444}Qや{CTRL_f000}{K_429}1{G_1205}{CTRL_824b}{CTRL_9268}{CTRL_d200}{G_4632}{G_9576}{G_14064}{K_504}Q{CTRL_8447}{G_10559}{G_28680}{G_3509}{CTRL_f61c}{CTRL_d2f7}{CTRL_f6fa}{CTRL_eef7}{K_250}{G_11814}{K_387}{CTRL_f620}{CTRL_edf7}{G_5627}{PORTRAIT_4c}{CTRL_c921}{G_24576}こ{G_4968}{G_4169}{G_9506}{G_2800}{G_4856}{CTRL_e04b}{K_280}ゲ{G_24608}{G_8226}{CTRL_d323}{G_32503}{CTRL_85fb}{CTRL_c921}{G_24577}こ{G_3432}{G_3657}{CTRL_e24b}{G_4632}{G_21096}{CTRL_d202}{G_9226}{CTRL_f6f0}{G_3071}{G_9288}{G_8472}ゲせ{G_8226}{CTRL_d323}{G_27383}{CTRL_eefb}{G_11904}{G_28803}{K_444}Qや{CTRL_d400}{G_10745}7{K_258}{CTRL_e006}ぽ ",
+    "en": ""
+  },
+  {
+    "id": 83,
+    "offset": "0x073885",
+    "jp": "{G_949}{G_3100}{CTRL_c148}{G_2190}{CTRL_c131}{CTRL_b186}{G_25636}{K_512}{G_4121}{G_2184}{G_4152}{G_2432}{G_2308}{G_22292}{G_1833}{K_477}{G_22560}オ{CTRL_f620}{G_3575}{G_2044}{CTRL_d420}{G_32503}{G_4344}{K_444}Qや{CTRL_f000}{K_429}1{G_1205}{CTRL_824b}{CTRL_9268}{CTRL_d200}{G_4632}{G_9576}{G_14064}{K_504}Q{CTRL_8447}{G_10559}{G_28680}{G_3509}{CTRL_f61c}{CTRL_d2f7}{CTRL_f6fa}{CTRL_eef7}{K_250}{G_11814}{K_387}{CTRL_f620}{CTRL_edf7}{G_5627}{PORTRAIT_4c}{CTRL_c921}{G_24576}こ{G_4968}{G_4169}{G_9506}{G_2800}{G_4856}{CTRL_e04b}{K_280}ゲ{G_24608}{G_8226}{CTRL_d323}{G_32503}{CTRL_85fb}{CTRL_c921}{G_24577}こ{G_3432}{G_3657}{CTRL_e24b}{G_4632}{G_21096}{CTRL_d202}{G_9226}{CTRL_f6f0}{G_3071}{G_9288}{G_8472}ゲせ{G_8226}{CTRL_d323}{G_27383}{CTRL_eefb}{G_11904}{G_28803}{K_444}Qや{CTRL_d400}{G_10745}7{K_258}{CTRL_e006}ぽ ",
+    "en": ""
+  },
+  {
+    "id": 84,
+    "offset": "0x0738d9",
+    "jp": "{G_3509}{CTRL_f61c}{CTRL_d2f7}{CTRL_f6fa}{CTRL_eef7}{K_250}{G_11814}{K_387}{CTRL_f620}{CTRL_edf7}{G_5627}{PORTRAIT_4c}{CTRL_c921}{G_24576}こ{G_4968}{G_4169}{G_9506}{G_2800}{G_4856}{CTRL_e04b}{K_280}ゲ{G_24608}{G_8226}{CTRL_d323}{G_32503}{CTRL_85fb}{CTRL_c921}{G_24577}こ{G_3432}{G_3657}{CTRL_e24b}{G_4632}{G_21096}{CTRL_d202}{G_9226}{CTRL_f6f0}{G_3071}{G_9288}{G_8472}ゲせ{G_8226}{CTRL_d323}{G_27383}{CTRL_eefb}{G_11904}{G_28803}{K_444}Qや{CTRL_d400}{G_10745}7{K_258}{CTRL_e006}ぽ ",
+    "en": ""
+  },
+  {
+    "id": 85,
+    "offset": "0x07395d",
+    "jp": "{G_693}{CTRL_f620}{CTRL_b2f7}{K_507}Q{CTRL_f047}{G_20405}{G_17990}{CTRL_c046}{CTRL_83b4}{CTRL_81b0}{G_3910}{G_4892}{CTRL_8048}{G_18758}{CTRL_c846}ゲつ{CTRL_8cd0}{CTRL_f6e0}{CTRL_9cf7}{G_4090}{CTRL_804c}{CTRL_9b23}{CTRL_c000}{CTRL_ad25}0{G_917}{K_294}{G_12438}{G_4128}{G_8737}{CTRL_d71c}{G_1527}{G_17149}{K_326}{G_4128}ぉ{G_3880}{G_8913}{G_8732}{CTRL_8832}{CTRL_9b23} ",
+    "en": ""
+  },
+  {
+    "id": 86,
+    "offset": "0x073969",
+    "jp": "{G_20405}{G_17990}{CTRL_c046}{CTRL_83b4}{CTRL_81b0}{G_3910}{G_4892}{CTRL_8048}{G_18758}{CTRL_c846}ゲつ{CTRL_8cd0}{CTRL_f6e0}{CTRL_9cf7}{G_4090}{CTRL_804c}{CTRL_9b23}{CTRL_c000}{CTRL_ad25}0{G_917}{K_294}{G_12438}{G_4128}{G_8737}{CTRL_d71c}{G_1527}{G_17149}{K_326}{G_4128}ぉ{G_3880}{G_8913}{G_8732}{CTRL_8832}{CTRL_9b23} ",
+    "en": ""
+  },
+  {
+    "id": 87,
+    "offset": "0x073d21",
+    "jp": "{G_949}{G_3100}{CTRL_c148}{G_2190}{CTRL_c131}{CTRL_b186}{G_25636}{K_512}{G_4121}{G_2184}{G_4152}{G_2432}{G_2308}{G_22292}{G_1833}{K_477}{G_22560}オ{CTRL_f620}{CTRL_bff7}{G_2041}{CTRL_d320}{G_12535}{G_4350}{K_444}Qや{CTRL_f000}{K_429}{CTRL_f002}{G_20405}{G_17990}{CTRL_c046}{CTRL_83b4}E3{CTRL_800c}{G_2374}{G_2308}{CTRL_890c}{G_4678}{G_5892}{G_9996}ゆ{K_360}{G_2081}ぼ{G_6696}k{CTRL_bd25}{G_5954}{G_16594}{G_1094}{G_18692}{G_3654}{G_8196}{G_4116}ぜ{CTRL_c091}{CTRL_c921}{K_257}ボ{K_545}{G_12689}{CTRL_8014}{G_4642}1{CTRL_d723}{G_19191}{CTRL_80f8}せ{G_9219}{G_2072}{CTRL_bd35}{CTRL_eb42}{G_5843}{G_1096}{G_4200}{G_1056}{G_25664}{CTRL_e442}{G_16399}{G_2118}ぴざ3{G_19988}{G_1094}{G_13878}{G_13828}{CTRL_8014}{G_23331}0だ{K_405}{G_661}{G_12693}し{CTRL_d722}{G_11255}{G_16888}{CTRL_c846}ごご3く{K_405}{G_661}{G_12693}しそ{CTRL_d723}{G_7927}{G_1016}{G_6320}{CTRL_98bc}{CTRL_a146}{CTRL_f046}{K_444}Qや{G_21504}ち{G_28675}{CTRL_81b5}{G_1456}{G_5660}{G_5710}{G_5962}{G_4425}オ{CTRL_9020}{CTRL_f071}せ3{G_5264}{G_26698}{G_9286}{G_28400}{G_5117}{G_8268}{CTRL_d41c}{G_13559}{CTRL_a0f8}{CTRL_e188}{G_2184}{G_12355}{G_4224}{G_26697}{CTRL_8068}{G_16384}{K_536}{G_10344}{G_12572}{G_9244}{G_29168}{CTRL_d7fd}{G_25591}{G_13819}ぱ{G_10272}{K_598}{G_808}{G_3024}{K_296}{G_5072}{G_3880}{CTRL_dad1}{G_28919}{G_3832}-{G_4096}{K_611}1ち{G_28675}720{G_4097}ち{CTRL_b003}{G_10559}{CTRL_da08}{CTRL_8ef7}{K_504}{G_28848}{K_444}Q{G_28743}{CTRL_81b5}{G_1456}{G_3612}{G_4380}{G_1096}ゲ{G_6700}{CTRL_d7d1}{SFX_f7}{K_248}{G_3988}{G_26698}{G_12614}{G_9244}{G_11504}{G_3581}{G_3656}{G_3657}{G_9290}{G_10736}{G_1789}{CTRL_da20}{G_8951}{CTRL_d3fe}{G_28407}{G_3068}{G_4680}{G_2081}{CTRL_d322}{CTRL_d9f7}{K_511}{G_26656}{CTRL_ac60}{CTRL_ec60}{K_352}{G_28848}{K_444}Qや{G_20480}{K_432}{G_4354} ",
+    "en": ""
+  }
+]

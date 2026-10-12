@@ -1,0 +1,440 @@
+[
+  {
+    "id": 0,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 1,
+    "offset": "0x26e6e4",
+    "jp": "ウォ-ティア{BREAK}",
+    "en": "Watia{BREAK}"
+  },
+  {
+    "id": 2,
+    "offset": "0x26e6f2",
+    "jp": "ボルカニア{BREAK}",
+    "en": "Volcania{BREAK}"
+  },
+  {
+    "id": 3,
+    "offset": "0x26e6fe",
+    "jp": "フォレスティア{BREAK}",
+    "en": "Forestia{BREAK}"
+  },
+  {
+    "id": 4,
+    "offset": "0x26e70e",
+    "jp": "フレイマ-{BREAK}",
+    "en": "Flamor{BREAK}"
+  },
+  {
+    "id": 5,
+    "offset": "0x26e71a",
+    "jp": "マッドアクア{BREAK}",
+    "en": "Mud Aqua{BREAK}"
+  },
+  {
+    "id": 6,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 7,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 8,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 9,
+    "offset": "0x26e6d6",
+    "jp": "ウッディ-ナ{BREAK}",
+    "en": "Woodina{BREAK}"
+  },
+  {
+    "id": 10,
+    "offset": "0x26e740",
+    "jp": "ブロッサムタウン{BREAK}",
+    "en": "Blossom Town{BREAK}"
+  },
+  {
+    "id": 11,
+    "offset": "0x26e752",
+    "jp": "ハントグロ-ブ{K_396}{K_397}{K_398}{BREAK}",
+    "en": "Hunt Grove{BREAK}"
+  },
+  {
+    "id": 12,
+    "offset": "0x26e768",
+    "jp": "アプリコットタウン{BREAK}",
+    "en": "Apricot Town{BREAK}"
+  },
+  {
+    "id": 13,
+    "offset": "0x26e77c",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 14,
+    "offset": "0x26e794",
+    "jp": "グラッチェの{K_391}{BREAK}",
+    "en": "Grazie's Room{BREAK}"
+  },
+  {
+    "id": 15,
+    "offset": "0x26e7a4",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 16,
+    "offset": "0x26e7b2",
+    "jp": "スカイシャ-ク{K_483}{K_255}アジト{BREAK}",
+    "en": "Sky Shark Hideout{BREAK}"
+  },
+  {
+    "id": 17,
+    "offset": "0x26e7cc",
+    "jp": "08?????{BREAK}",
+    "en": "Area 08{BREAK}"
+  },
+  {
+    "id": 18,
+    "offset": "0x26e7dc",
+    "jp": "09?????{BREAK}",
+    "en": "Area 09{BREAK}"
+  },
+  {
+    "id": 19,
+    "offset": "0x26e7ec",
+    "jp": "マスカットタウン{BREAK}",
+    "en": "Muscat Town{BREAK}"
+  },
+  {
+    "id": 20,
+    "offset": "0x26e7fe",
+    "jp": "ドウクツ{K_396}{K_397}{K_398}{BREAK}",
+    "en": "Cave Area{BREAK}"
+  },
+  {
+    "id": 21,
+    "offset": "0x26e80e",
+    "jp": "ピ-チタウン{BREAK}",
+    "en": "Peach Town{BREAK}"
+  },
+  {
+    "id": 22,
+    "offset": "0x26e81c",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 23,
+    "offset": "0x26e834",
+    "jp": "0E???{BREAK}",
+    "en": "Area 0E{BREAK}"
+  },
+  {
+    "id": 24,
+    "offset": "0x26e840",
+    "jp": "0Fまち{BREAK}",
+    "en": "Town 0F{BREAK}"
+  },
+  {
+    "id": 25,
+    "offset": "0x26e84a",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 26,
+    "offset": "0x26e858",
+    "jp": "11くうこう?{BREAK}",
+    "en": "Sky Port 11{BREAK}"
+  },
+  {
+    "id": 27,
+    "offset": "0x26e868",
+    "jp": "バトルスタジアム{BREAK}",
+    "en": "Battle Stadium{BREAK}"
+  },
+  {
+    "id": 28,
+    "offset": "0x26e87a",
+    "jp": "なぞの{K_396}{K_397}しせつ{BREAK}",
+    "en": "Secret Facility{BREAK}"
+  },
+  {
+    "id": 29,
+    "offset": "0x26e88c",
+    "jp": "14????{BREAK}",
+    "en": "Area 14{BREAK}"
+  },
+  {
+    "id": 30,
+    "offset": "0x26e89a",
+    "jp": "{K_481}ダンジョン{BREAK}",
+    "en": "Dungeon 1{BREAK}"
+  },
+  {
+    "id": 31,
+    "offset": "0x26e8a8",
+    "jp": "16ひくうていないぶ{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 32,
+    "offset": "0x26e8be",
+    "jp": "キウイタウン{BREAK}",
+    "en": "Kiwi Town{BREAK}"
+  },
+  {
+    "id": 33,
+    "offset": "0x26e8cc",
+    "jp": "キウイタウン{BREAK}",
+    "en": "Kiwi Town{BREAK}"
+  },
+  {
+    "id": 34,
+    "offset": "0x26e8da",
+    "jp": "ココナッツタウン{BREAK}",
+    "en": "Coconut Town{BREAK}"
+  },
+  {
+    "id": 35,
+    "offset": "0x26e8ec",
+    "jp": "ココナッツタウン{BREAK}",
+    "en": "Coconut Town{BREAK}"
+  },
+  {
+    "id": 36,
+    "offset": "0x26e8fe",
+    "jp": "ホテル'グランドボルカニア{BREAK}",
+    "en": "Grand Volcania Hotel{BREAK}"
+  },
+  {
+    "id": 37,
+    "offset": "0x26e91a",
+    "jp": "ホテル'グランドボルカニア{BREAK}",
+    "en": "Grand Volcania Hotel{BREAK}"
+  },
+  {
+    "id": 38,
+    "offset": "0x26e936",
+    "jp": "タワ-へのぬけ{K_430}{BREAK}",
+    "en": "Tower Secret Pass{BREAK}"
+  },
+  {
+    "id": 39,
+    "offset": "0x26e948",
+    "jp": "エ-ゲのひみつダンジョン{BREAK}",
+    "en": "Aege's Secret Cave{BREAK}"
+  },
+  {
+    "id": 40,
+    "offset": "0x26e962",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 41,
+    "offset": "0x26e97a",
+    "jp": "20ひくうていないぶ{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 42,
+    "offset": "0x26e990",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 43,
+    "offset": "0x26e99e",
+    "jp": "22くうこう??{BREAK}",
+    "en": "Airport Area{BREAK}"
+  },
+  {
+    "id": 44,
+    "offset": "0x26e9b0",
+    "jp": "23ひくうていないぶ{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 45,
+    "offset": "0x26e9c6",
+    "jp": "タワ-れんらく{K_430}{BREAK}",
+    "en": "Tower Pass{BREAK}"
+  },
+  {
+    "id": 46,
+    "offset": "0x26e9d8",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 47,
+    "offset": "0x26e9e6",
+    "jp": "ブル-べリ-タウン{BREAK}",
+    "en": "Blueberry Town{BREAK}"
+  },
+  {
+    "id": 48,
+    "offset": "0x26e9fa",
+    "jp": "ハルナの{K_391}{BREAK}",
+    "en": "Haruna's Room{BREAK}"
+  },
+  {
+    "id": 49,
+    "offset": "0x26ea06",
+    "jp": "ドリ-ムマウンテン{BREAK}",
+    "en": "Dream Mountain{BREAK}"
+  },
+  {
+    "id": 50,
+    "offset": "0x26ea1a",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 51,
+    "offset": "0x26ea32",
+    "jp": "2a????{BREAK}",
+    "en": "Area 2A{BREAK}"
+  },
+  {
+    "id": 52,
+    "offset": "0x26ea40",
+    "jp": "2b????{BREAK}",
+    "en": "Area 2B{BREAK}"
+  },
+  {
+    "id": 53,
+    "offset": "0x26ea4e",
+    "jp": "{K_482}ダンジョン{BREAK}",
+    "en": "Dungeon 2{BREAK}"
+  },
+  {
+    "id": 54,
+    "offset": "0x26ea5c",
+    "jp": "ロ-ズタウン{BREAK}",
+    "en": "Rose Town{BREAK}"
+  },
+  {
+    "id": 55,
+    "offset": "0x26ea6a",
+    "jp": "カトレアタウン{BREAK}",
+    "en": "Cattleya Town{BREAK}"
+  },
+  {
+    "id": 56,
+    "offset": "0x26ea7a",
+    "jp": "バミュ-ダのきち{BREAK}",
+    "en": "Bermuda Base{BREAK}"
+  },
+  {
+    "id": 57,
+    "offset": "0x26ea8c",
+    "jp": "30まち{BREAK}",
+    "en": "Town 30{BREAK}"
+  },
+  {
+    "id": 58,
+    "offset": "0x26ea96",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 59,
+    "offset": "0x26eaae",
+    "jp": "32ひくうていないぶ{BREAK}",
+    "en": "Airship Interior{BREAK}"
+  },
+  {
+    "id": 60,
+    "offset": "0x26eac4",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 61,
+    "offset": "0x26ead2",
+    "jp": "{K_483}ダンジョン{BREAK}",
+    "en": "Dungeon 3{BREAK}"
+  },
+  {
+    "id": 62,
+    "offset": "0x26eae0",
+    "jp": "バトルスタジアム{BREAK}",
+    "en": "Battle Stadium{BREAK}"
+  },
+  {
+    "id": 63,
+    "offset": "0x26eaf2",
+    "jp": "バミュ-ダのひみつきち{BREAK}",
+    "en": "Bermuda Secret Base{BREAK}"
+  },
+  {
+    "id": 64,
+    "offset": "0x26eb0a",
+    "jp": "ロ-ズタウン{BREAK}",
+    "en": "Rose Town{BREAK}"
+  },
+  {
+    "id": 65,
+    "offset": "0x26eb18",
+    "jp": "スカイシャ-ク{K_376}きょ{K_412}{BREAK}",
+    "en": "Sky Shark HQ{BREAK}"
+  },
+  {
+    "id": 66,
+    "offset": "0x26eb30",
+    "jp": "グランドチェンジタワ-{BREAK}",
+    "en": "Grand Change Tower{BREAK}"
+  },
+  {
+    "id": 67,
+    "offset": "0x26eb48",
+    "jp": "3A????{BREAK}",
+    "en": "Area 3A{BREAK}"
+  },
+  {
+    "id": 68,
+    "offset": "0x26eb56",
+    "jp": "スカイポ-ト{BREAK}",
+    "en": "Sky Port{BREAK}"
+  },
+  {
+    "id": 69,
+    "offset": "0x26eb64",
+    "jp": "{K_483}ダンジョン{BREAK}",
+    "en": "Dungeon 4{BREAK}"
+  },
+  {
+    "id": 70,
+    "offset": "0x26eb72",
+    "jp": "ワ-ルドチェンジタワ-{BREAK}",
+    "en": "World Change Tower{BREAK}"
+  },
+  {
+    "id": 71,
+    "offset": "0x26eb8a",
+    "jp": "ヒミツダンジョン1{BREAK}",
+    "en": "Secret Dungeon 1{BREAK}"
+  },
+  {
+    "id": 72,
+    "offset": "0x26eb9e",
+    "jp": "ヒミツダンジョン2{BREAK}",
+    "en": "Secret Dungeon 2{BREAK}"
+  }
+]

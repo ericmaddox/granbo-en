@@ -1,0 +1,74 @@
+{
+  "characters": {
+    "カケル": "Kakeru",
+    "アカリ": "Akari",
+    "ダイゴロウ": "Daigoro",
+    "シズク": "Shizuku",
+    "カズキ": "Kazuki",
+    "ハカセ": "Professor",
+    "グランマスター": "Gran Master"
+  },
+  "elements": {
+    "火": "Fire",
+    "水": "Water",
+    "木": "Wood",
+    "土": "Earth",
+    "風": "Wind",
+    "光": "Light",
+    "闇": "Dark"
+  },
+  "locations": {
+    "ブロッサムタウン": "Blossom Town",
+    "ワ-ルドチェンジタワ-": "World Change Tower",
+    "グランハントじょう": "Gran-Hunt Ground",
+    "セントラルシティ": "Central City",
+    "フォレストビレッジ": "Forest Village",
+    "マリンポート": "Marine Port",
+    "ボルケーノマウンテン": "Volcano Mountain"
+  },
+  "granbo_species": {
+    "ウッディ-ナ": "Woodina",
+    "ウォ-ティア": "Watia",
+    "ボルカニア": "Volcania",
+    "フォレスティア": "Forestia",
+    "フレイマ-": "Flamor",
+    "マッドアクア": "Mud Aqua",
+    "スパークラー": "Sparkler",
+    "アクアライガー": "Aqualiger",
+    "フレイムドラゴン": "Flame Dragon",
+    "ウッドゴーレム": "Wood Golem",
+    "メガフロッグ": "Mega Frog",
+    "シャドウナイト": "Shadow Knight",
+    "ウィンドバード": "Wind Bird"
+  },
+  "battle_commands": {
+    "たたかう": "Fight",
+    "コウゲキ": "Attack",
+    "パーツ": "Parts",
+    "にげる": "Escape",
+    "いれかえ": "Switch",
+    "どうぐ": "Items",
+    "ぼうぎょ": "Guard"
+  },
+  "status_effects": {
+    "エラ-": "Error",
+    "ストップ": "Stop",
+    "ウイルス": "Virus",
+    "フリーズ": "Freeze",
+    "ダウン": "Down",
+    "ロック": "Lock"
+  },
+  "system_terms": {
+    "グランボ": "Granbo",
+    "グランエナジー": "Gran Energy",
+    "データポッド": "Data Pod",
+    "コア": "Core",
+    "メモリー": "Memory",
+    "セーブ": "Save",
+    "ロード": "Load",
+    "たいりょく": "HP",
+    "エナジー": "EP",
+    "レベル": "Lv",
+    "けいけんち": "EXP"
+  }
+}

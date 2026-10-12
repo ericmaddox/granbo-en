@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 1,
+    "offset": "0x26e5c0",
+    "jp": "アカリ{BREAK}",
+    "en": "Akari{BREAK}"
+  },
+  {
+    "id": 2,
+    "offset": "0x26e5c8",
+    "jp": "ダイゴロウ{BREAK}",
+    "en": "Daigoro{BREAK}"
+  },
+  {
+    "id": 3,
+    "offset": "0x26e5d4",
+    "jp": "シズク{BREAK}",
+    "en": "Shizuku{BREAK}"
+  },
+  {
+    "id": 4,
+    "offset": "0x26e5dc",
+    "jp": "カズキ{BREAK}",
+    "en": "Kazuki{BREAK}"
+  },
+  {
+    "id": 5,
+    "offset": "0x26e5e4",
+    "jp": "グラッチェ{BREAK}",
+    "en": "Grazie{BREAK}"
+  },
+  {
+    "id": 6,
+    "offset": "0x26e5f0",
+    "jp": "キャプテン{BREAK}",
+    "en": "Captain{BREAK}"
+  },
+  {
+    "id": 7,
+    "offset": "0x26e5fc",
+    "jp": "バルト{BREAK}",
+    "en": "Balto{BREAK}"
+  },
+  {
+    "id": 8,
+    "offset": "0x26e604",
+    "jp": "エ-ゲ{BREAK}",
+    "en": "Aege{BREAK}"
+  },
+  {
+    "id": 9,
+    "offset": "0x26e60c",
+    "jp": "バミュ-ダ{BREAK}",
+    "en": "Bermuda{BREAK}"
+  },
+  {
+    "id": 10,
+    "offset": "0x26e618",
+    "jp": "グランボ{BREAK}",
+    "en": "Granbo{BREAK}"
+  },
+  {
+    "id": 11,
+    "offset": "0x26e622",
+    "jp": "{K_376}{K_506}{K_370}{BREAK}",
+    "en": "Doctor{BREAK}"
+  },
+  {
+    "id": 12,
+    "offset": "0x26e62a",
+    "jp": "かんごふ{BREAK}",
+    "en": "Nurse{BREAK}"
+  },
+  {
+    "id": 13,
+    "offset": "0x26e634",
+    "jp": "ハルナ{BREAK}",
+    "en": "Haruna{BREAK}"
+  },
+  {
+    "id": 14,
+    "offset": "0x26e63c",
+    "jp": "グランボ{BREAK}",
+    "en": "Granbo{BREAK}"
+  },
+  {
+    "id": 15,
+    "offset": "0x26e646",
+    "jp": "{K_337}{K_325}{BREAK}",
+    "en": "Hunter{BREAK}"
+  },
+  {
+    "id": 16,
+    "offset": "0x26e64c",
+    "jp": "バミュ-ダ{BREAK}",
+    "en": "Bermuda{BREAK}"
+  },
+  {
+    "id": 17,
+    "offset": "0x26e658",
+    "jp": "ゲンじい{BREAK}",
+    "en": "Old Man Gen{BREAK}"
+  },
+  {
+    "id": 18,
+    "offset": "0x26e662",
+    "jp": "グラッチョ{BREAK}",
+    "en": "Graccio{BREAK}"
+  },
+  {
+    "id": 19,
+    "offset": "0x26e66e",
+    "jp": "{K_337}{K_325}3 ",
+    "en": "Hunter 3{BREAK}"
+  },
+  {
+    "id": 20,
+    "offset": "0x26e67c",
+    "jp": "{K_337}{K_325}4 ",
+    "en": "Hunter 4{BREAK}"
+  },
+  {
+    "id": 21,
+    "offset": "0x26e68a",
+    "jp": "{K_337}{K_325}5 ",
+    "en": "Hunter 5{BREAK}"
+  },
+  {
+    "id": 22,
+    "offset": "0x26e698",
+    "jp": "{K_337}{K_325}6 ",
+    "en": "Hunter 6{BREAK}"
+  },
+  {
+    "id": 23,
+    "offset": "0x26e6a6",
+    "jp": "{K_337}{K_325}7 ",
+    "en": "Hunter 7{BREAK}"
+  },
+  {
+    "id": 24,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 25,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 26,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 27,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 28,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  },
+  {
+    "id": 29,
+    "offset": "0x26e5b8",
+    "jp": "カケル{BREAK}",
+    "en": "Kakeru{BREAK}"
+  }
+]

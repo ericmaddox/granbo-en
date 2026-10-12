@@ -1,0 +1,2636 @@
+[
+  {
+    "id": 0,
+    "offset": "0x272d08",
+    "jp": "{FRAME_INIT}ダミ-{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}Dummy{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 1,
+    "offset": "0x2736ae",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ふっふっふっ'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}{SFX_08}さんをたおしたその{K_350}{CTRL_8205}ためさせてもらいますよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Heh heh heh...{WAIT}{PORTRAIT_09}{SFX_9f}Let me test{LINE}the power{LINE}that defeated our scout!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 2,
+    "offset": "0x27370c",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}{K_318}ったより{K_342}ごたえがないですね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}You're much easier{LINE}than I expected!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 3,
+    "offset": "0x27373c",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}おやおやおや'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}{SFX_08}さんをたおしたのは{CTRL_8205}マグレだったんですかね?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Well, well, well...{WAIT}{PORTRAIT_09}{SFX_9f}Was{LINE}defeating our scout{LINE}just dumb luck?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 4,
+    "offset": "0x273796",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}そんな{K_414}ではシズクさんは{CTRL_8205}かえせませんねぇ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}With such weak power,{LINE}you'll never rescue{LINE}Shizuku!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 5,
+    "offset": "0x2737d4",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ほほう,おもしろい!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Hoho, interesting!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 6,
+    "offset": "0x2737fa",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}いいですね!{CTRL_8205}たのしいですよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Very nice!{LINE}This is quite fun!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 7,
+    "offset": "0x27382a",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ハッハッハッ!!{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}おみごとです!{CTRL_8205}まいりましたよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Hahaha!!{WAIT}{PORTRAIT_09}{SFX_9f}Splendid!{LINE}I surrender to you!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 8,
+    "offset": "0x273876",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ほう'''やってくれますね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Oh?{LINE}You've actually done it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 9,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 10,
+    "offset": "0x2738a4",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}ボクを{K_349}にまわして{CTRL_8205}{K_492}きのこったグランボはいない!!{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}キミのグランボにも{CTRL_8205}{K_471}じウンメイをたどってもらうよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph...{WAIT}{PORTRAIT_07}{SFX_9d}No Granbo that{LINE}opposed me{LINE}has ever survived!!{WAIT}{PORTRAIT_07}{SFX_9d}Your{LINE}Granbo will suffer{LINE}the very same fate!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 11,
+    "offset": "0x27393a",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''やはりそのていどか{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph...{LINE}So that's all you've got.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 12,
+    "offset": "0x273966",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}どうしたんだい?{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}やっぱりバミュ-ダ{K_330}をたおしたのは{CTRL_8205}マグレだったみたいだね{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}What's the{LINE}matter?{WAIT}{PORTRAIT_07}{SFX_9d}Defeating Bermuda{LINE}was just{LINE}pure fluke, wasn't it?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 13,
+    "offset": "0x2739ca",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}なんだ'''もう{K_281}わりか'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}ちょっとでもキタイした{CTRL_8205}ボクがバカだったよ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}What... Finished already?{WAIT}{PORTRAIT_07}{SFX_9d}I{LINE}was a fool to expect{LINE}anything from you...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 14,
+    "offset": "0x273a32",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_318}ったよりはやるようだね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher{LINE}than I thought!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 15,
+    "offset": "0x273a5c",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 16,
+    "offset": "0x273a6c",
+    "jp": "{FRAME_INIT}{K_247}ありえません,バグです,しきゅうホウコクしてください{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}Impossible, this is a bug!{LINE}Report it immediately!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 17,
+    "offset": "0x273aac",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''おもしろい!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Interesting!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 18,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 19,
+    "offset": "0x273ad4",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}グランドチェンジキ-はわたさん!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I won't hand over{LINE}the Grand Change Key!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 20,
+    "offset": "0x273b06",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}まずは{K_302}つ'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}That's one down...!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 21,
+    "offset": "0x273b28",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}どうした=?{K_264}がないぞ=!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}What's wrong?{LINE}Out of steam already!?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 22,
+    "offset": "0x273b54",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}バルトさまにゴホウビをもらえるぜっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Lord Balto is gonna{LINE}give me a big reward!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 23,
+    "offset": "0x273b88",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}うぐっ'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Ugh...!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 24,
+    "offset": "0x273ba6",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}このままでは'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}バルトさまにおこられてしまうっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}At this rate...{WAIT}{PORTRAIT_1f}{SFX_a5}Lord Balto{LINE}is gonna{LINE}be furious with me!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 25,
+    "offset": "0x273bf4",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}な,なんてこった'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}ソウジとうばんにかく{K_260}げされるっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}N-No way...{WAIT}{PORTRAIT_1f}{SFX_a5}I'm gonna be{LINE}demoted{LINE}to cleaning duty!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 26,
+    "offset": "0x273c46",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}そ,そんなバカな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Th-That's impossible!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 27,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 28,
+    "offset": "0x273c6a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}へっへっへっ'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}オレにもついにカンブになる{CTRL_8205}チャンスがまわってきたぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Heh heh heh...{WAIT}{PORTRAIT_0f}{SFX_a5}Finally, my{LINE}chance to{LINE}become an officer!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 29,
+    "offset": "0x273cd0",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ほれほれ=っ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 30,
+    "offset": "0x273cf0",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}カンブのイスが{K_308}えてきたぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I can see the officer's{LINE}chair in sight!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 31,
+    "offset": "0x273d20",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}これでオレさまもカンブにショウカクか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Does this mean I'm getting{LINE}promoted to officer?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 32,
+    "offset": "0x273d56",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ふん'''いたくもかゆくもねえぜ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Hmph... That didn't itch{LINE}or hurt one bit!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 33,
+    "offset": "0x273d88",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ああ===っ'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}カンブのユメが'''{CTRL_8205}{K_286}のいていく===っ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Aaaagh...!{WAIT}{PORTRAIT_1f}{SFX_a5}My dream of{LINE}promotion...{LINE}slipping away...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 34,
+    "offset": "0x273de2",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}うそだあああああ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}NO WAYYYYYY!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 35,
+    "offset": "0x273e08",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ず,ずるいぞっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Th-That's cheating!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 36,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 37,
+    "offset": "0x273e2a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}これで,そうじとうばんとも{CTRL_8205}おさらばだっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Goodbye forever{LINE}to cleaning duty!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 38,
+    "offset": "0x273e66",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}よっしゃああ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}ALRIGHT!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 39,
+    "offset": "0x273e86",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}もらったあああっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I got this!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 40,
+    "offset": "0x273eaa",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ガンバってそうじするんだな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}You'd better do your best{LINE}scrubbing floors!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 41,
+    "offset": "0x273ed8",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ふ'''こういう{K_414}もあるさ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Heh... Days like this{LINE}happen.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 42,
+    "offset": "0x273f02",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ああ===っ'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}やっぱりオレは{CTRL_8205}{K_302}{K_492}そうじとうばんなのか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Aaaagh...!{WAIT}{PORTRAIT_1f}{SFX_a5}Am I really{LINE}doomed to cleaning{LINE}duty forever?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 43,
+    "offset": "0x273f58",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}そうさ'''どうせオレは{CTRL_8205}{K_380}{K_381}{K_302}ホウキのにあう{K_331}さ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Yeah... Guess I'm just a{LINE}guy{LINE}who looks good with a{LINE}broom...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 44,
+    "offset": "0x273fa0",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}せっかくそうじとうばんを{CTRL_8205}やめられるとおもったのに'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}And I thought I could{LINE}finally{LINE}quit cleaning duty...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 45,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 46,
+    "offset": "0x273fe8",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''{CTRL_8205}{K_263}とはだいぶ{K_345}つきが{K_413}わったね'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_274}{K_503}こそ,ボクを{K_438}しませてくれよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... You've grown quite{LINE}a bit{LINE}since last time...{WAIT}{PORTRAIT_07}{SFX_9d}Now{LINE}then, entertain me{LINE}properly!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 47,
+    "offset": "0x274054",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}どうしたんだい?{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}またボクをガッカリさせるつもりかい{CTRL_8205}{SFX_00}くん?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}What's wrong?{WAIT}{PORTRAIT_07}{SFX_9d}Are you going{LINE}to disappoint{LINE}me again, kid?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 48,
+    "offset": "0x2740aa",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}やれやれ'''やっぱり,キミも{CTRL_8205}ボクを{K_438}しませる{K_414}はできなかったね{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Good grief... In the end,{LINE}you couldn't entertain me.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 49,
+    "offset": "0x2740fc",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}まったく'''{CTRL_8205}これじゃただの{K_403}{K_372}のムダ{K_317}いさ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Honestly...{LINE}This was a complete waste{LINE}of time.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 50,
+    "offset": "0x274140",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}どうやらちょっとは{CTRL_8205}{K_376}{K_375}を{K_269}した{K_408}がいいみたいだね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph...{WAIT}{PORTRAIT_07}{SFX_9d}Looks like I should{LINE}show you{LINE}a little more respect...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 51,
+    "offset": "0x27419c",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}いいね'''ボクがもとめていたのは{CTRL_8205}{K_450}にこういう{K_348}いだよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Splendid... This is the{LINE}battle{LINE}I've been longing for!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 52,
+    "offset": "0x2741e8",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_274}{K_357}はボクの{K_352}けのようだね'''{CTRL_8205}だが,{K_440}はこうは{K_309}かないよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}It seems this round is my{LINE}loss...{LINE}But next time won't be so{LINE}easy!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 53,
+    "offset": "0x274238",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''おもしろい!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Interesting!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 54,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 55,
+    "offset": "0x274260",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}ドリ-ムフラワ-はわたさない'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_309}くぞっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}I won't give up the Dream{LINE}Flower...{LINE}Here I come!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 56,
+    "offset": "0x2742aa",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}どうしたんだい?{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}キミの{K_350}は{CTRL_8205}このていどじゃないだろぅっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}What's wrong?{WAIT}{PORTRAIT_07}{SFX_9d}Your strength{LINE}isn't just{LINE}at this meager level, is{LINE}it!?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 57,
+    "offset": "0x274300",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}このていどだったとは'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}しょうじき,がっかりだよ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Only this{LINE}much...?{WAIT}{PORTRAIT_07}{SFX_9d}Honestly, I'm{LINE}disappointed...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 58,
+    "offset": "0x274352",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}かいかぶりすぎだったみたいだね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Seems I overestimated{LINE}you...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 59,
+    "offset": "0x274386",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだまだっ!!!{K_248}{WAIT}{PORTRAIT_16}{SFX_9d}{K_247}これからだっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet!!!{WAIT}{PORTRAIT_16}{SFX_9d}The real fight{LINE}starts now!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 60,
+    "offset": "0x2743c2",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだ{K_352}けてはいないぞっ!!!{K_248}{WAIT}{PORTRAIT_16}{SFX_9d}{K_247}こいっ!!!!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I haven't lost yet!!!{WAIT}{PORTRAIT_16}{SFX_9d}Bring{LINE}it on!!!!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 61,
+    "offset": "0x27440a",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}くっ!!!{K_248}{WAIT}{PORTRAIT_16}{SFX_9d}{K_247}1{K_503}ならず,2{K_503}までもっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Damn it!!!{WAIT}{PORTRAIT_16}{SFX_9d}Not once, but{LINE}twice...!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 62,
+    "offset": "0x27444c",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''しつこいね,キミも!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... You're persistent,{LINE}kid!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 63,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 64,
+    "offset": "0x27447c",
+    "jp": "{FRAME_INIT}{CTRL_9201}{CTRL_9300}{CTRL_870a}{SFX_0d}の{SFX_0a},チロだ!{LINE}スカイシャ-クにカイゾウされている!!!{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}It's Chiro!{LINE}Sky Shark modified him!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 65,
+    "offset": "0x2744c4",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 66,
+    "offset": "0x2744d4",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 67,
+    "offset": "0x2744e4",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 68,
+    "offset": "0x2744f4",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 69,
+    "offset": "0x274504",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 70,
+    "offset": "0x274514",
+    "jp": "{FRAME_INIT}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 71,
+    "offset": "0x274524",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ナシ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 72,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 73,
+    "offset": "0x274538",
+    "jp": "{FRAME_INIT}{PORTRAIT_1d}{SFX_a3}{K_247}おねがいです!やめてください!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1d}{SFX_a3}Please! Stop this!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 74,
+    "offset": "0x27456a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}さぁ,おとなしく{CTRL_8205}ロウヤの{K_255}にもどってもらおうか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Now then, head quietly{LINE}back{LINE}into your prison cell!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 75,
+    "offset": "0x2745ae",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ふっふっふ'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}{K_274}ごろあやまっても{CTRL_8205}もうゆるしてやらないぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Heh heh heh...{WAIT}{PORTRAIT_0f}{SFX_a5}Even if you{LINE}apologize now,{LINE}I won't let you off!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 76,
+    "offset": "0x274608",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ふっ'''この{K_351}{K_352},もらったぜ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Heh... This victory is{LINE}mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 77,
+    "offset": "0x27463a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}いかんいかん,つい{K_376}{K_375}になっちまった!{CTRL_8205}{K_289}く{K_318}うなよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Oops, I got carried away!{LINE}Don't hold a grudge!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 78,
+    "offset": "0x274682",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}お,オレの{SFX_0a}がぁぁぁぁぁ!!!{CTRL_8205}ゆ,ゆるせねえ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}M-My Granboooo!!!{LINE}I won't forgive you!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 79,
+    "offset": "0x2746c6",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちょ,ちょっとまて''''''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}こんなはずは'''{CTRL_8205}こんなはずはないぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}H-Hold on a second...{WAIT}{PORTRAIT_1f}{SFX_a5}This{LINE}can't be happening!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 80,
+    "offset": "0x274728",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}く''''''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}オンセンにつかりすぎたのが{CTRL_8205}まずかったか'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Ugh...{WAIT}{PORTRAIT_1f}{SFX_a5}Did I stay in the{LINE}hot springs{LINE}for too long...?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 81,
+    "offset": "0x27477e",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}く,くそっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 82,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 83,
+    "offset": "0x27479c",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}この{K_322}と2{K_357}も{K_348}えるなんて'''{CTRL_8205}あなた,{K_376}{K_405}にウンが{K_288}いわねっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}To face this lady twice...{LINE}You must have terrible{LINE}luck!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 84,
+    "offset": "0x2747ee",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}あら,もしかして{K_266}い{K_398}は{K_422}{K_342}なのかしら?{CTRL_8205}オ-ホッホッホッホッ''''''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Oh? Could it be you're{LINE}afraid of heights?{LINE}O-ho-ho!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 85,
+    "offset": "0x274848",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}つまらないわ'''{K_248}{WAIT}{PORTRAIT_08}{SFX_9e}{K_247}{K_311}{K_264}のウンドウにもならないじゃない!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}How dull...{WAIT}{PORTRAIT_08}{SFX_9e}This wasn't{LINE}even good morning{LINE}exercise for me!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 86,
+    "offset": "0x274898",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}オ-ホッホッホッホッ''''''{K_248}{WAIT}{PORTRAIT_08}{SFX_9e}{K_247}しょせん,うつくしくない{K_373}がうつくしい{K_373}に{CTRL_8205}{K_351}つ{K_414}なんてできないのよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}O-ho-ho-ho-ho!{WAIT}{PORTRAIT_08}{SFX_9e}An ugly{LINE}person can never{LINE}defeat someone beautiful!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 87,
+    "offset": "0x274918",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}あなたっ!!{K_274}{K_380}{K_381}{K_255}の{K_322}のファンを{CTRL_8205}{K_349}に{K_357}したわよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}You!! You've made an enemy{LINE}of{LINE}all my worldwide fans!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 88,
+    "offset": "0x274960",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}こ,ここから,うつくしい{CTRL_8205}{K_256}ギャクテンゲキが{K_280}まるのよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Th-This is where my{LINE}beautiful{LINE}comeback drama begins!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 89,
+    "offset": "0x2749aa",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}な,な,な,{K_402}かのマチガイよっ!{CTRL_8205}そうに{K_386}まっているわ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Th-Th-This must be a{LINE}mistake!{LINE}It has to be!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 90,
+    "offset": "0x2749f4",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}な,なんですってぇ!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Wh-What did you say?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 91,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 92,
+    "offset": "0x274a1a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}このオレに{K_348}いをいどんだ{K_414}'''{CTRL_8205}コウカイさせてやるぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Challenging me to a{LINE}fight...{LINE}I'll make you regret it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 93,
+    "offset": "0x274a66",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}どうしたのかなぁ=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}What's the matter, huh?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 94,
+    "offset": "0x274a8a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ほれほれ,どうしたどうした!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Come on, what happened to{LINE}you?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 95,
+    "offset": "0x274ab8",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}おいおい,もうおわりか!?{CTRL_8205}ガッカリだぜ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Hey, finished already!?{LINE}What a disappointment!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 96,
+    "offset": "0x274af4",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちっ,ユダンしたか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Tch, I let my guard down!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 97,
+    "offset": "0x274b1a",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}そ,そんなバカな'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}こんな{K_337}どもに{K_352}けたら{CTRL_8205}オレはスカイシャ-クのわらいものだ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Th-That's absurd...{WAIT}{PORTRAIT_1f}{SFX_a5}If I{LINE}lose to a kid like you,{LINE}I'll be Sky Shark's{LINE}laughingstock!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 98,
+    "offset": "0x274b8a",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}な''''''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}なんてこった'''{CTRL_8205}こんなバカな{K_414}が'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Wh-What...{WAIT}{PORTRAIT_1f}{SFX_a5}Unbelievable...{LINE}How could this happen...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 99,
+    "offset": "0x274bdc",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}な,なんだと!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Wh-What did you say!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 100,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 101,
+    "offset": "0x2751fa",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}{K_322}たちスカイシャ-クに{CTRL_8205}さからおうなんて'''{K_248}{WAIT}{PORTRAIT_18}{SFX_a5}{K_247}たっぷりおしおきしてあげるわっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Thinking you could defy{LINE}us Sky Sharks...{WAIT}{PORTRAIT_18}{SFX_a5}I'll{LINE}punish you thoroughly!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 102,
+    "offset": "0x275266",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}ふふふ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Fufufu...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 103,
+    "offset": "0x275282",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}ボウヤァ==={K_248}{WAIT}{PORTRAIT_08}{SFX_9e}{K_247}さっきまでの{K_253}{K_375}はどうしたのかしら?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Little boy!{WAIT}{PORTRAIT_08}{SFX_9e}Where did all{LINE}your energy{LINE}from earlier go?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 104,
+    "offset": "0x2752ce",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}これにこりたら{CTRL_8205}おとなしくしていることねっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}If you've learned your{LINE}lesson,{LINE}stay out of our way!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 105,
+    "offset": "0x27530e",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}なっ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}What...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 106,
+    "offset": "0x275328",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}そ,そんな'''{K_248}{WAIT}{PORTRAIT_18}{SFX_9e}{K_247}こんなこどもに{K_352}けたら{CTRL_8205}{K_322}は'''{K_322}は'''{K_322}は'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}N-No way...{WAIT}{PORTRAIT_18}{SFX_9e}Losing to a{LINE}child like this,{LINE}I... I...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 107,
+    "offset": "0x275388",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}ウッッッソォ======ッ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}NO WAYYYYYY!!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 108,
+    "offset": "0x2753b8",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}そんなのアリ=!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Is that even allowed!?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 109,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 110,
+    "offset": "0x2753da",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}{K_322}たちスカイシャ-クに{CTRL_8205}さからおうなんて'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}わらわせるぜっ'''じゃなくて{CTRL_8205}わらわせてくれますね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Thinking you could defy{LINE}us Sky Sharks...{WAIT}{PORTRAIT_09}{SFX_9f}You amuse{LINE}me! I mean,{LINE}how utterly ridiculous!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 111,
+    "offset": "0x27545a",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}いいちょうしだぜ'''ですね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Looking good... I mean,{LINE}splendid, sir!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 112,
+    "offset": "0x275488",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}おや?{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}さっきまでの{K_253}{K_375}はどうしたんですか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Oh?{WAIT}{PORTRAIT_09}{SFX_9f}Where did that courage{LINE}from earlier go?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 113,
+    "offset": "0x2754cc",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}これにこりたら{CTRL_8205}おとなしくしてるんだな'''ですね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Stay down if you know{LINE}what's good for you!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 114,
+    "offset": "0x275510",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}どうってことねぇっ'''ですよ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}That was nothing!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 115,
+    "offset": "0x27553e",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}や,やべ'''じゃなくて{CTRL_8205}なかなかやりますね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Uh oh... I mean,{LINE}you're pretty good!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 116,
+    "offset": "0x27557e",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ま,まずい'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Th-This is bad...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 117,
+    "offset": "0x27559e",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ひきょ'''いや,やりますね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Unfair... I mean,{LINE}well played!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 118,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 119,
+    "offset": "0x2755ce",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}お{K_263}をぎったんぎったんにして{CTRL_8205}バミュ-ダさまの'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}シンライをとりもどすぞっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I'll beat you black and{LINE}blue{LINE}and regain Lord{LINE}Bermuda's...{WAIT}{PORTRAIT_0f}{SFX_a5}trust once and{LINE}for all!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 120,
+    "offset": "0x27563a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}いける'''いけるぞ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I can do this... I can{LINE}win!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 121,
+    "offset": "0x275660",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}よしっ!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}なかなかいいチョウシだぜっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Alright!{WAIT}{PORTRAIT_0f}{SFX_a5}I'm in great shape{LINE}today!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 122,
+    "offset": "0x27569e",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}やったあああ!!{CTRL_8205}オレでも{K_351}てたあああ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I did it!!{LINE}Even I can win!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 123,
+    "offset": "0x2756d8",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ああ,たんまたんま=!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Whoa, time out, time out!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 124,
+    "offset": "0x275700",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}あ,ああ'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}やばい'''やばいぞ'''{CTRL_8205}どうすりゃいいんだあ'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Oh no...{WAIT}{PORTRAIT_1f}{SFX_a5}This is bad...{LINE}really bad...{LINE}What should I do...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 125,
+    "offset": "0x275760",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ばかなあああ===っ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}NO WAYYYYYY!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 126,
+    "offset": "0x275788",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}くそ=っ!しつこいぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Damn it! You're{LINE}persistent!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 127,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 128,
+    "offset": "0x2757b0",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ここまできたことを{CTRL_8205}コウカイさせてやるぜ!!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}いくぞ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I'll make you regret{LINE}coming all the way{LINE}here!!{WAIT}{PORTRAIT_0f}{SFX_a5}Here I come!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 129,
+    "offset": "0x275802",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}くくく!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Hehehe!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 130,
+    "offset": "0x27581a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ほらほら={K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}だんだんコウカイしてきただろう?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Come on!{WAIT}{PORTRAIT_0f}{SFX_a5}Starting to regret{LINE}it yet?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 131,
+    "offset": "0x27585e",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ロウヤにもどるんだな!{CTRL_8205}お{K_263}にはそこがおにあいさっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Back to the cell with you!{LINE}That's where you belong!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 132,
+    "offset": "0x2758a4",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}'''なめるなっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}... Don't underestimate{LINE}me!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 133,
+    "offset": "0x2758c8",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}やべっ'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちょっとチョウシに{CTRL_8205}のりすぎたか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Uh oh...{WAIT}{PORTRAIT_1f}{SFX_a5}Did I get a little{LINE}too cocky?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 134,
+    "offset": "0x275910",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}あわわ'''なんてこった'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Awa-wa... Unbelievable...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 135,
+    "offset": "0x27593e",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちきしょう!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Damn it all!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 136,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 137,
+    "offset": "0x27595c",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}とんで{K_482}に{K_268}るナツのムシとは{CTRL_8205}お{K_263}のようなやつのことを{K_307}うんだ!!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}カクゴしなっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Like a moth to a flame,{LINE}you walked right into{LINE}this!!{WAIT}{PORTRAIT_0f}{SFX_a5}Prepare yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 138,
+    "offset": "0x2759ca",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}へっへっへ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Heh heh heh...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 139,
+    "offset": "0x2759ea",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ほれほれ!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}さぁ,そろそろのびてもらおうかあ?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Come on!{WAIT}{PORTRAIT_0f}{SFX_a5}Time to knock you{LINE}flat!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 140,
+    "offset": "0x275a30",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}さぁ,{K_264}は{K_376}{K_506}をせめおとす{CTRL_8205}だけだぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Now all that's left{LINE}is to conquer the town!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 141,
+    "offset": "0x275a6a",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}くそっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Damn it!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 142,
+    "offset": "0x275a82",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}なにぃ'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}こんな{K_414}があっていいのか'''{CTRL_8205}オレが{K_337}どもなんかに'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}What...{WAIT}{PORTRAIT_1f}{SFX_a5}How could this{LINE}happen...{LINE}Losing to a mere kid...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 143,
+    "offset": "0x275ae2",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ち,ちきしょうっ'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it all...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 144,
+    "offset": "0x275b0c",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}な,なまいきな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}H-How insolent!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 145,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 146,
+    "offset": "0x275b2e",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}さぁ,{K_322}のカリブさまへのちゅうせい{K_320}が{CTRL_8205}いかに{K_279}いかおしえてあげますよ!!{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}このショウリをカリブさまに!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}I'll show you how deep my{LINE}loyalty to Lord Carib{LINE}is!!{WAIT}{PORTRAIT_09}{SFX_9f}This victory is for{LINE}Lord Carib!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 147,
+    "offset": "0x275bb0",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}いいかんじです'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Feeling good...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 148,
+    "offset": "0x275bd4",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}さぁさぁ'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}{K_264}がありませんよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Come now...{WAIT}{PORTRAIT_09}{SFX_9f}You're running{LINE}out of steam!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 149,
+    "offset": "0x275c10",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}カリブさま'''{CTRL_8205}{K_308}ていてくれましたか'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Lord Carib...{LINE}Were you watching my{LINE}triumph?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 150,
+    "offset": "0x275c50",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}まだまだ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Not yet...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 151,
+    "offset": "0x275c6e",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}な,なんと'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}この{K_322}が{K_352}けると{CTRL_8205}{K_307}うのですか'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}H-How could this be...{WAIT}{PORTRAIT_09}{SFX_9f}Are{LINE}you saying I could{LINE}lose...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 152,
+    "offset": "0x275cbe",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ば,ばかな''''''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}I-Impossible...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 153,
+    "offset": "0x275ce4",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ほう'''やりますね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Oh? You're quite{LINE}something!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 154,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 155,
+    "offset": "0x275d0c",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ここはゼッタイに{K_455}って{CTRL_8205}みせるぜ!!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}いくぞ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I will definitely win{LINE}this!!{WAIT}{PORTRAIT_0f}{SFX_a5}Here I come!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 156,
+    "offset": "0x275d56",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}よし,まずは{K_302}つ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Alright, that's one down!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 157,
+    "offset": "0x275d78",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}{K_308}える'''{K_308}えるぞ!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}オレさまのショウリのシュンカンが!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I see it... I see it!{WAIT}{PORTRAIT_0f}{SFX_a5}The{LINE}moment of my victory!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 158,
+    "offset": "0x275dcc",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}オレの{K_351}ちだっ!!{CTRL_8205}とっとときえな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I win!!{LINE}Now get lost!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 159,
+    "offset": "0x275e02",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちっ'''まだまだ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Tch... Not yet...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 160,
+    "offset": "0x275e2a",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}くそお'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}{K_352}けるわけには'''{CTRL_8205}{K_352}けるわけにはいかない!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Damn it...{WAIT}{PORTRAIT_1f}{SFX_a5}I can't afford{LINE}to lose!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 161,
+    "offset": "0x275e80",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}うがああああ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Gaaaaagh!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 162,
+    "offset": "0x275ea0",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_9f}{K_247}な,なんだと'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_9f}Wh-What...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 163,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 164,
+    "offset": "0x275ec2",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ふふふ'''{CTRL_8205}カクゴしなさい!!{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}いきますよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Fufufu... Prepare{LINE}yourself!!{WAIT}{PORTRAIT_09}{SFX_9f}Here I go!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 165,
+    "offset": "0x275f0a",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}さぁ,{K_340}るなら{K_274}のウチですよ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}If you want to run,{LINE}now's your chance!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 166,
+    "offset": "0x275f36",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ひきぎわを{K_308}あやまりましたね!{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}これであなたも{K_281}わりです!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}You misjudged when to{LINE}retreat!{WAIT}{PORTRAIT_09}{SFX_9f}Now this is the end{LINE}for you!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 167,
+    "offset": "0x275f88",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}きえなさい'''そして2{K_503}と{K_322}{K_330}の{K_263}に{CTRL_8205}スガタを{K_269}さない{K_414}です{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Disappear... and never{LINE}show{LINE}your face before us again!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 168,
+    "offset": "0x275fd6",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ほほう'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Hoho...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 169,
+    "offset": "0x275ff2",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}む'''{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}{K_285}{K_441}ケイサン{K_258}ですね'''{K_318}ったより{CTRL_8205}やるようです'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Hmm...{WAIT}{PORTRAIT_09}{SFX_9f}A slight{LINE}miscalculation...{LINE}You're better than I{LINE}thought...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 170,
+    "offset": "0x27604c",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}な''''''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Wh-What...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 171,
+    "offset": "0x27606a",
+    "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ち'''しぶといですね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}Tch... How stubborn!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 172,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 173,
+    "offset": "0x276092",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}お{K_263}をたおしてメシを{K_311}いに{K_309}くぜっ!{K_248}{WAIT}{PORTRAIT_0f}{SFX_9f}{K_247}メシのため'''カクゴ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I'll beat you so I can eat{LINE}lunch!{WAIT}{PORTRAIT_0f}{SFX_9f}For the sake of{LINE}food... prepare!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 174,
+    "offset": "0x2760ea",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}まっててくれ'''オレのAランチ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Wait for me... my Lunch{LINE}Set A!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 175,
+    "offset": "0x27611e",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}Aランチが!{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}Aランチが{K_346}の{K_263}に!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Lunch Set A!{WAIT}{PORTRAIT_0f}{SFX_a5}It's right{LINE}before my eyes!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 176,
+    "offset": "0x27615a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}よ-しっ!Aランチを{K_311}いに{K_309}くぞ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Alright! Time to eat Lunch{LINE}Set A!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 177,
+    "offset": "0x27618c",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ちっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Tch!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 178,
+    "offset": "0x2761a2",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}そ,そんな'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}このままじゃオレのAランチが'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}N-No way...{WAIT}{PORTRAIT_1f}{SFX_a5}At this rate,{LINE}my Lunch Set A is...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 179,
+    "offset": "0x2761ee",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}Aランチ'''{K_311}いたかったぜ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Lunch Set A...{LINE}I really wanted to eat{LINE}it...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 180,
+    "offset": "0x276220",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}は,{K_291}くAランチが{K_311}いたいのに!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}And I just wanted to eat{LINE}quickly!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 181,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 182,
+    "offset": "0x276250",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}じかんぎれだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Time's up!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 183,
+    "offset": "0x27626e",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり1タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}1 turn remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 184,
+    "offset": "0x276290",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり2タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}2 turns remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 185,
+    "offset": "0x2762b2",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり3タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}3 turns remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 186,
+    "offset": "0x2762d4",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}カゼで{K_341}チョウが{K_289}いんだ'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_9f}{K_247}さっさと{K_281}わらせてもらうぜっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}I have a terrible{LINE}cold...{WAIT}{PORTRAIT_0f}{SFX_9f}Let's finish this{LINE}quickly!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 187,
+    "offset": "0x27632c",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ふふふ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Fufufu...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 188,
+    "offset": "0x276348",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ゲホゲホ'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_a5}{K_247}{K_256}したこと''ゲホ'''ないなゲホ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}*cough cough*{WAIT}{PORTRAIT_0f}{SFX_a5}You're not...{LINE}*cough*... much!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 189,
+    "offset": "0x276392",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}カゼひきのオレに{K_352}けるとは{CTRL_8205}なさけないヤツだっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Losing to someone with a{LINE}cold...{LINE}How pathetic!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 190,
+    "offset": "0x2763d6",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ゲホゲホッ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}*cough*... Damn it...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 191,
+    "offset": "0x2763f2",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ゲホゲホゲホッ!{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}カゼでうまくグランボを{CTRL_8205}コントロ-ルできん!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Ugh...{WAIT}{PORTRAIT_1f}{SFX_a5}My head is{LINE}spinning...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 192,
+    "offset": "0x27644a",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}カゼひいてたんだ'''シカタないよな!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}My fever is getting{LINE}worse...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 193,
+    "offset": "0x276480",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}うう'''カンべンしてくれよ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}I need some cold{LINE}medicine...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 194,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 195,
+    "offset": "0x2764b2",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}じかんぎれだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}You insolent brat!{WAIT}{PORTRAIT_08}{SFX_9e}I'll{LINE}teach you some manners!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 196,
+    "offset": "0x2764d0",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり1タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}That's right, stay down!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 197,
+    "offset": "0x2764f2",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり2タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Bow before me!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 198,
+    "offset": "0x276514",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり3タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}You never stood a chance!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 199,
+    "offset": "0x276536",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}{K_337}{K_325}のなんたるか'''{K_248}{WAIT}{PORTRAIT_0f}{SFX_9f}{K_247}このオレがおしえてやるっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}How dare you!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 200,
+    "offset": "0x276582",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}こういう{K_403}は{K_249}ち,ちきしょう!{K_250}って{CTRL_8205}{K_307}うのが{K_337}{K_325}っぽくて{K_288}いぞ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}This isn't over yet!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 201,
+    "offset": "0x2765d4",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}ここでは{K_249}そ,そんなバカな'''{K_250}って{CTRL_8205}{K_307}うのがキホンだな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Saying 'Th-That's{LINE}impossible...'{LINE}is standard around here!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 202,
+    "offset": "0x276622",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}{K_352}けたら{K_249}おぼえてろ!!{K_250}とさけんで{CTRL_8205}{K_353}げる!さぁ,やってみるんだ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}When you lose, scream{LINE}'I'll remember{LINE}this!' and run! Go on, try{LINE}it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 203,
+    "offset": "0x276678",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}おいおい,そんなにがんばったら{CTRL_8205}{K_337}{K_325}になれないぞ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}Hey, if you try this hard,{LINE}you'll never fit in as a{LINE}minion...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 204,
+    "offset": "0x2766be",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ま,まさか'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}お{K_263},{K_337}{K_325}じゃなくてカンブを{CTRL_8205}{K_346}ざしているのか'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}C-Could it be...{WAIT}{PORTRAIT_1f}{SFX_a5}Are you{LINE}aiming to become an officer{LINE}instead of a minion...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 205,
+    "offset": "0x27671e",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}お{K_263}は{K_337}{K_325}シッカクだぁぁぁ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}You're completely{LINE}disqualified{LINE}as a minion!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 206,
+    "offset": "0x27674c",
+    "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_9f}{K_247}{K_337}{K_325}がそんな{K_414}をしてはいかん!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_9f}Minions aren't supposed to{LINE}have this kind of power!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 207,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 208,
+    "offset": "0x27677c",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}じかんぎれだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Time's up!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 209,
+    "offset": "0x27679a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり1タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}1 turn remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 210,
+    "offset": "0x2767bc",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり2タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}2 turns remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 211,
+    "offset": "0x2767de",
+    "jp": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}{K_247}のこり3タ-ンだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}3 turns remaining!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 212,
+    "offset": "0x276800",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}さぁ,ケッチャクを{CTRL_8205}つけましょう!{K_248}{WAIT}{PORTRAIT_08}{SFX_a5}{K_247}いくわよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Now then, let's settle{LINE}this!{WAIT}{PORTRAIT_08}{SFX_a5}Here I go!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 213,
+    "offset": "0x276848",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}あ=ら,どうしたの=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}Oh my, what's wrong?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 214,
+    "offset": "0x27686e",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}この{K_351}{K_352},もらったわ!{K_248}{WAIT}{PORTRAIT_08}{SFX_9e}{K_247}そろそろ{K_281}わらせてもらうわよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}This victory is mine!{WAIT}{PORTRAIT_08}{SFX_9e}Time{LINE}to bring this to an end!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 215,
+    "offset": "0x2768bc",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}さっさと{K_376}きょ{K_412}から{CTRL_8205}{K_269}ていきなさい!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Leave our base{LINE}immediately!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 216,
+    "offset": "0x2768f4",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}くうっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}Guh!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 217,
+    "offset": "0x27690c",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}{K_322}は'''{K_248}{WAIT}{PORTRAIT_18}{SFX_9e}{K_247}{K_322}は{K_352}けるワケにはいかないのよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}I...{WAIT}{PORTRAIT_18}{SFX_9e}I cannot afford to{LINE}lose!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 218,
+    "offset": "0x276950",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}な,なんてこと'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}How could this be...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 219,
+    "offset": "0x276974",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}つくづくイヤなボウヤね'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}What an utterly irritating{LINE}boy...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 220,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 221,
+    "offset": "0x2769a4",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}これが{K_378}{K_264}だ'''{K_248}{WAIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_475}てを{K_269}しきって{K_348}おうじゃないか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}This is the end...{WAIT}{PORTRAIT_07}{SFX_9d}Let's{LINE}fight with everything we{LINE}have!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 222,
+    "offset": "0x2769f4",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 223,
+    "offset": "0x276a0e",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}ボクは{K_378}{K_264}まで{K_342}はぬかないよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}I won't hold back until{LINE}the end!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 224,
+    "offset": "0x276a3c",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}いい{K_348}いだったね'''{CTRL_8205}だが,もうキミと{K_348}うこともないだろう{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}That was a good battle...{LINE}Though we won't fight{LINE}again.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 225,
+    "offset": "0x276a88",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 226,
+    "offset": "0x276aa2",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだまだっ!{K_248}{WAIT}{PORTRAIT_16}{SFX_9d}{K_247}ボクは{K_352}けない!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet!{WAIT}{PORTRAIT_16}{SFX_9d}I won't give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 227,
+    "offset": "0x276ada",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}'''このボクが'''{K_352}けた?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}... I lost...?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 228,
+    "offset": "0x276b08",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだ,あきらめないのかっ!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Haven't you given up yet!?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 229,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 230,
+    "offset": "0x276b34",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!!{K_248}{WAIT}{PORTRAIT_06}{SFX_9c}{K_247}さぁ,オレさまをたのしませてくれ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}Gahahaha!!{WAIT}{PORTRAIT_06}{SFX_9c}Now then,{LINE}entertain me!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 231,
+    "offset": "0x276b80",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}なんだ,このていどなのか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}What's this? Is that all{LINE}you got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 232,
+    "offset": "0x276baa",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}''''''{K_248}{WAIT}{PORTRAIT_06}{SFX_9c}{K_247}がっかりさせてくれるな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}...{WAIT}{PORTRAIT_06}{SFX_9c}Don't disappoint me{LINE}now...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 233,
+    "offset": "0x276bec",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}やはりオレさまの{K_349}では{CTRL_8205}なかったようだな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}Looks like you were no{LINE}match{LINE}for me after all!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 234,
+    "offset": "0x276c28",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}ほほう'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}Hoho...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 235,
+    "offset": "0x276c44",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}く,くそっ!!{K_248}{WAIT}{PORTRAIT_15}{SFX_9c}{K_247}まさかこれほどとは!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}D-Damn it!!{WAIT}{PORTRAIT_15}{SFX_9c}To think you{LINE}were this strong!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 236,
+    "offset": "0x276c82",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}な,なんだと'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}Wh-What...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 237,
+    "offset": "0x276ca4",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}な,なんだ{K_274}のは'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}Wh-What was that just{LINE}now...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 238,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 239,
+    "offset": "0x276cce",
+    "jp": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}{K_247}さぁ,ラストゲ-ムだ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}Come, this is the final{LINE}game!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 240,
+    "offset": "0x276cf6",
+    "jp": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}{K_247}{K_278}い,{K_278}すぎるっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}Too slow, far too slow!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 241,
+    "offset": "0x276d1a",
+    "jp": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}{K_247}わらわせるな'''{K_248}{WAIT}{PORTRAIT_1a}{SFX_9f}{K_247}そのていどでこの{K_505}をとめられると?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}Don't make me laugh...{WAIT}{PORTRAIT_1a}{SFX_9f}You{LINE}think you can stop me{LINE}with such meager power?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 242,
+    "offset": "0x276d68",
+    "jp": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}{K_247}あそびにもならんか'''{CTRL_8205}さぁ,ワ-ルドチェンジタワ-はつどうだ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0a}{SFX_9f}Not even a diversion...{LINE}Now,{LINE}World Change Tower,{LINE}activate!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 243,
+    "offset": "0x276dbc",
+    "jp": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}{K_247}やってくれるではないか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}You've actually managed{LINE}that!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 244,
+    "offset": "0x276de6",
+    "jp": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}{K_247}こ,こんな'''{K_248}{WAIT}{PORTRAIT_1a}{SFX_9f}{K_247}こんな{K_337}どもに{K_505}がケイカクが{CTRL_8205}とめられるのか'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}H-How... Could my grand{LINE}plan{LINE}be stopped by mere{LINE}children...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 245,
+    "offset": "0x276e44",
+    "jp": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}{K_247}ば,ばかな'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}I-Impossible...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 246,
+    "offset": "0x276e68",
+    "jp": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}{K_247}なめたマネを'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}How dare you mock me...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 247,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 248,
+    "offset": "0x276e8e",
+    "jp": "{CTRL_8a02}{K_505}みずから,{K_504}{K_342}をしてやろう!!{CTRL_8c00}{BREAK}",
+    "en": "{CTRL_8a02}I shall face you{LINE}personally!!{CTRL_8c00}{BREAK}"
+  },
+  {
+    "id": 249,
+    "offset": "0x276e44",
+    "jp": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}{K_247}ば,ばかな'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1a}{SFX_9f}I-Impossible...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 250,
+    "offset": "0x276eb4",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}{SFX_00}よっ!{CTRL_8205}どれほど{K_279}くなったか{K_308}せてみぃっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Kakeru! Show me how much{LINE}stronger you've become!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 251,
+    "offset": "0x276ef2",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}どうしたんじゃっ!!{CTRL_8205}{K_376}{K_375}でかかってこいっ!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}What's the matter!!{LINE}Come at me with full{LINE}strength!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 252,
+    "offset": "0x276f30",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}どうしたんじゃっ!{CTRL_8205}ワシをがっかりさせるでないっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}What's wrong?!{LINE}Don't disappoint this old{LINE}man!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 253,
+    "offset": "0x276f74",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}まだまだじゃな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}You still have a way to{LINE}go...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 254,
+    "offset": "0x276f98",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}ほぅ'''{CTRL_8205}{SFX_00}め'''なかなかやりおるわい{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Ho... Kakeru, my boy...{LINE}You've gotten quite{LINE}skilled!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 255,
+    "offset": "0x276fd2",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}なにっ!?{CTRL_8205}まさかここまで{K_305}{K_370}していたのかっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}What!? Could he have grown{LINE}this much already?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 256,
+    "offset": "0x277010",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}ワシは'''ワシは'''{CTRL_8205}モウレツにうれしいぞっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}I'm... I'm fiercely proud{LINE}and happy, my boy!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 257,
+    "offset": "0x277054",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}ほう!やるではないか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Ho! Splendidly done!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 258,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 259,
+    "offset": "0x27707c",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}{SFX_00}よっ!{CTRL_8205}ワシをガッカリさせるでないぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Kakeru! Don't you dare{LINE}disappoint me now!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 260,
+    "offset": "0x2770b6",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}{K_375}をぬくでないっ!{CTRL_8205}{K_375}のゆるみは{K_352}けにつながるぞっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}Don't let your guard down!{LINE}Carelessness leads to{LINE}defeat!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 261,
+    "offset": "0x2770fc",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}ええいっ!{CTRL_8205}だらしがないヤツじゃっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}Come on! Don't be so{LINE}sloppy!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 262,
+    "offset": "0x277132",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}もう{K_302}{K_503}きたえなおすヒツヨウが{CTRL_8205}ありそうじゃな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Looks like you need to be{LINE}retrained from scratch...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 263,
+    "offset": "0x277176",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}そうじゃ!{CTRL_8205}やればできるではないか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}That's it! You can do it{LINE}when you put your mind to{LINE}it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 264,
+    "offset": "0x2771ac",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}{K_348}いはツメがかんじんじゃ!{CTRL_8205}ワシをあまく{K_308}るとなきをみるぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}The finishing blow is{LINE}crucial!{LINE}Take me lightly and you'll{LINE}regret it!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 265,
+    "offset": "0x2771fa",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}{K_274}の{K_348}い'''{CTRL_8205}{K_386}してわすれるでないぞっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}Never forget the lessons{LINE}of this battle!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 266,
+    "offset": "0x277236",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}ほう'''やりおるわ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}Ho... You've truly done{LINE}it!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 267,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 268,
+    "offset": "0x27725e",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}{K_274}{K_357}からはワシも{K_342}はぬかん!!{CTRL_8205}カクゴせいっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}From here on, I won't hold{LINE}back!{LINE}Prepare yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 269,
+    "offset": "0x27729e",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}ここからお{K_263}がどう{K_348}うか'''{CTRL_8205}{K_438}しみに{K_308}させてもらうぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Let me see how you fight{LINE}from this position!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 270,
+    "offset": "0x2772ea",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}アイツはこんなジョウキョウでも{CTRL_8205}{K_386}してあきらめはせんかったぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}That guy never gave up,{LINE}even in situations like{LINE}this!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 271,
+    "offset": "0x27733a",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}{K_376}{K_405}に{K_279}い{K_435}は,{K_352}ける{K_414}のたいせつさを{CTRL_8205}{K_300}っている'''さて,お{K_263}はどうかな?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}The truly strong{LINE}understand the{LINE}value of defeat... How{LINE}about you?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 272,
+    "offset": "0x277398",
+    "jp": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}{K_247}ぬおっ'''{K_274}の{K_355}{K_356}'''{CTRL_8205}ワシでもよめなんだぞ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_21}{SFX_a7}Guh... That attack...{LINE}Even I couldn't read it...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 273,
+    "offset": "0x2773de",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}まったく'''{K_348}い{K_408}まで{CTRL_8205}アイツににてきおった'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}Good grief... Even your{LINE}fighting{LINE}style resembles his now...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 274,
+    "offset": "0x277422",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}もはやワシからおしえられる{K_414}は{CTRL_8205}{K_402}もなさそうじゃな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}There is nothing left for{LINE}this{LINE}old man to teach you!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 275,
+    "offset": "0x277468",
+    "jp": "{FRAME_INIT}{PORTRAIT_20}{SFX_a7}{K_247}そうじゃ,{K_378}{K_264}の{K_378}{K_264}まで{CTRL_8205}あきらめずに{K_348}うんじゃ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 276,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 277,
+    "offset": "0x2774ac",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}{K_351}{K_352}よっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 278,
+    "offset": "0x2774d0",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}{K_376}{K_405}はこのていどだったの?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 279,
+    "offset": "0x277502",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}これで{K_376}{K_405}にバミュ-ダをたおしたの?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 280,
+    "offset": "0x27753e",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}{K_289}いけどこれからはアタシのジダイよっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 281,
+    "offset": "0x27757c",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}まだまだこれからよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 282,
+    "offset": "0x2775ac",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}{SFX_00}っ!{CTRL_8205}まだ{K_352}けてないわよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 283,
+    "offset": "0x2775dc",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}くやしぃ===っ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 284,
+    "offset": "0x277600",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}な,{K_402}よそれっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 285,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 286,
+    "offset": "0x277622",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}{SFX_00}っ!{K_274}{K_503}のアタシは{CTRL_8205}ひとあじちがうわよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 287,
+    "offset": "0x277660",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}アタシの{K_319}{K_348}にかかったわね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 288,
+    "offset": "0x27768e",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}ふ'''アタシの{K_319}{K_348}は{CTRL_8205}カンペキよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 289,
+    "offset": "0x2776c6",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}3{K_325}でかんがえた{K_319}{K_348}で{K_351}てるなんて{CTRL_8205}'''こんなこともあるんだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 290,
+    "offset": "0x277716",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}あれ'''{K_319}{K_348}ではこんなはず{CTRL_8205}じゃなかったんだけど'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 291,
+    "offset": "0x277760",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}え=っと'''{K_319}{K_348}ではこういう{K_403}{CTRL_8205}どうするか'''わすれちゃった'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 292,
+    "offset": "0x2777b6",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}やっぱり{K_319}{K_348}なんて{K_507}てるだけ{CTRL_8205}ムダだわ!やめやめ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 293,
+    "offset": "0x2777fa",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}そ,それはヨテイ{K_258}だわ'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 294,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 295,
+    "offset": "0x277828",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}もうむずかしい{K_414}をかんがえるのは{CTRL_8205}やめたわ!いくわよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 296,
+    "offset": "0x277870",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}ほらほらっ!かんがえずに{K_348}った{K_408}が{CTRL_8205}うまくいくのよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 297,
+    "offset": "0x2778b8",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}{K_378}{K_264}はできるかぎりハデなワザと{CTRL_8205}ジミ=なワザ'''どっちがいい?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 298,
+    "offset": "0x277908",
+    "jp": "{FRAME_INIT}{PORTRAIT_01}{SFX_97}{K_247}ふっふっふ'''{CTRL_8205}ス-パ-ヒロインアカリのたんじょうねっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 299,
+    "offset": "0x277952",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}う'''やっぱりちょっとは{CTRL_8205}かんがえた{K_408}がいいのかな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 300,
+    "offset": "0x27799c",
+    "jp": "{FRAME_INIT}{PORTRAIT_10}{SFX_97}{K_247}こ,ここから{K_256}ぎゃくてんするのが{CTRL_8205}ショウリのダイゴミってもんよね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 301,
+    "offset": "0x2779f0",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}う=ん'''{CTRL_8205}{K_402}がたりないんだろう'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 302,
+    "offset": "0x277a2a",
+    "jp": "{FRAME_INIT}{PORTRAIT_11}{SFX_97}{K_247}そんなのナシよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}None{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 303,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 304,
+    "offset": "0x277a4c",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}ま,まさか{SFX_00}くんと{K_348}う{K_414}に{CTRL_8205}なるなんて,あんまりなんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 305,
+    "offset": "0x277a96",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}あ===っ!{CTRL_8205}ゴメンよ,{SFX_00}く===ん!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 306,
+    "offset": "0x277ace",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}あわわわわ'''{CTRL_8205}これは{K_402}かのマチガイなんだな==={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 307,
+    "offset": "0x277b12",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{K_351}っちゃったんだな'''{CTRL_8205}こまったんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 308,
+    "offset": "0x277b4c",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}ああ={CTRL_8205}やられちゃったんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 309,
+    "offset": "0x277b7a",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}やっぱりオイラじゃ{SFX_00}くん{CTRL_8205}には{K_351}てないんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 310,
+    "offset": "0x277bb8",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}わかってはいたけど{CTRL_8205}なんだかくやしいんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 311,
+    "offset": "0x277bf4",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}が,がっかりなんだな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 312,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 313,
+    "offset": "0x277c1e",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{SFX_00}く===ん{CTRL_8205}オイラもちょっとは{K_279}くなったよ={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 314,
+    "offset": "0x277c5c",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}え===?{CTRL_8205}{SFX_00}く=ん,どうしたの=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 315,
+    "offset": "0x277c90",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}え===?{CTRL_8205}オイラ{SFX_00}くんに{K_351}っちゃうの=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 316,
+    "offset": "0x277cca",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}オイラも{K_376}{K_405}は{CTRL_8205}{K_279}かったんだな==={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 317,
+    "offset": "0x277cfe",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}うう'''{CTRL_8205}まだあきらめないんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 318,
+    "offset": "0x277d32",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}ま,まだまだなんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 319,
+    "offset": "0x277d58",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}やっぱり{SFX_00}くんは{CTRL_8205}{K_279}かったんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 320,
+    "offset": "0x277d8a",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}い,{K_274}のは{K_402}なんだな=!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 321,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 322,
+    "offset": "0x277db4",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{SFX_00}くん=,オイラおなかすいてる{CTRL_8205}から,{K_311}べながら{K_348}ってもいいかい=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 323,
+    "offset": "0x277e08",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{K_274}のうちにアンマンを{K_311}べるんだな={CTRL_8205}モグモグ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 324,
+    "offset": "0x277e4a",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{K_274}{K_503}はにくマンも{K_311}べちゃうんだな={CTRL_8205}モグモグモグモグ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 325,
+    "offset": "0x277e94",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}{SFX_00}く=ん,もしかして{CTRL_8205}おなかがすいていたの=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 326,
+    "offset": "0x277ed2",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}うぐっ!ビックリして{CTRL_8205}アンマンがノドにつまったんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 327,
+    "offset": "0x277f18",
+    "jp": "{FRAME_INIT}{PORTRAIT_12}{SFX_98}{K_247}あああああ'''にくマンを{CTRL_8205}おとしちゃたんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 328,
+    "offset": "0x277f58",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}やっぱり{SFX_00}くんは{K_279}いんだな!{CTRL_8205}ごほうびにアンマンをあげるんだな={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 329,
+    "offset": "0x277fa8",
+    "jp": "{FRAME_INIT}{PORTRAIT_02}{SFX_98}{K_247}モグモグ'''あれ?{CTRL_8205}どうして{K_253}にもどってるの?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 330,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 331,
+    "offset": "0x277fe8",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}こいっ!{SFX_00}!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 332,
+    "offset": "0x278014",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}どうした,どうした=?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 333,
+    "offset": "0x278048",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}あの{K_403}オレさまに{K_351}ったのはマグレか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 334,
+    "offset": "0x27808a",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}やはりオレさまが{K_380}{K_381}{K_302}のようだな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 335,
+    "offset": "0x2780cc",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}まだまだこれからだ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 336,
+    "offset": "0x278100",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!ガッハッハ!{CTRL_8205}ガッハッハ!ガッハッハ!ガッハッハ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 337,
+    "offset": "0x27814e",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!{CTRL_8205}{K_274}{K_283}はこれぐらいにしておいてやろう!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 338,
+    "offset": "0x278192",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}こしゃくなマネを!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 339,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 340,
+    "offset": "0x2781b4",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}{K_509}{K_351}しょうひんを{K_294}って{K_376}きょ{K_412}の{CTRL_8205}シュウリだいをかせいでやるっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 341,
+    "offset": "0x278206",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}まず1Fの{K_484}ばこバリケ—ドを{CTRL_8205}{K_253}にもどすぞ!ガッハッハ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 342,
+    "offset": "0x278250",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}とうぜん5Fのホウダイも{CTRL_8205}{K_253}にもどすぞ!ガッハッハ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 343,
+    "offset": "0x278296",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!スカイシャ-クの{CTRL_8205}みらいは{K_292}るいぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 344,
+    "offset": "0x2782d8",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}い,いかん'''{K_378}{K_267}でもスカイシップの{CTRL_8205}ネンリョウだいくらいはかせがなければ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 345,
+    "offset": "0x278336",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}ま,まずいな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 346,
+    "offset": "0x278358",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!どこかでさらでも{CTRL_8205}あらっていくか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 347,
+    "offset": "0x278398",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}なに!!オレさまは{CTRL_8205}キョカしていないぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 348,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 349,
+    "offset": "0x2783d2",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!オレさまはこの{K_348}いに{K_351}って{CTRL_8205}またスカイシャ-クをもりあげるぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 350,
+    "offset": "0x27842e",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!これで{K_337}{K_325}になりたい{CTRL_8205}というヤツが100{K_338}はふえたな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}Gahahaha! That should{LINE}increase{LINE}our hunter applicants by{LINE}100!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 351,
+    "offset": "0x278482",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!これでだれかが{K_276}しい{CTRL_8205}スカイシップをキフしてくれるはずだ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}Gahahaha! Now someone is{LINE}sure{LINE}to donate a new Sky Ship!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 352,
+    "offset": "0x2784d8",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}ガッハッハ!これでスカイシャ-クも{CTRL_8205}あんたいだな!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}Gahahaha! Sky Shark is{LINE}safe{LINE}and sound with this!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 353,
+    "offset": "0x27851c",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}こ,{K_274}{K_357}はそうカンタンには{CTRL_8205}{K_352}けられんぞ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}I won't be defeated so{LINE}easily!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 354,
+    "offset": "0x278558",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}いかん'''ここで{K_352}けたらまた{K_337}{K_325}を{CTRL_8205}やめるヤツがでてくるかもしれん!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}If I lose here, more{LINE}minions{LINE}might quit the squad!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 355,
+    "offset": "0x2785b0",
+    "jp": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}{K_247}コゾウがカンブになってくれれば{CTRL_8205}スカイシャ-クも{K_256}{K_338}{K_375}なんだがな'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_06}{SFX_9c}If that kid joined as an{LINE}officer,{LINE}Sky Shark would be{LINE}invincible...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 356,
+    "offset": "0x278606",
+    "jp": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}{K_247}な,なめたマネを'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_15}{SFX_9c}How dare you mock me...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 357,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 358,
+    "offset": "0x27862e",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}ふっ'''{CTRL_8205}この{K_403}をまっていたよ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... I've been waiting{LINE}for this moment...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 359,
+    "offset": "0x278664",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_475}{K_350}でこないとボクには{K_351}てない'''{CTRL_8205}それは{K_300}っているだろう?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You can't defeat me{LINE}without{LINE}full power... You know{LINE}that, right?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 360,
+    "offset": "0x2786b2",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}どうしたんだい!{CTRL_8205}キミの{K_350}はこんな{K_373}じゃないだろう?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}What's wrong! Your{LINE}strength{LINE}isn't just at this level,{LINE}is it?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 361,
+    "offset": "0x2786f6",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}{K_380}{K_381}が{K_459}{K_460}になって{K_348}いのカンカクが{CTRL_8205}にぶったのかい'''ザンネンだよ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Did peaceful times dull{LINE}your{LINE}battle senses? What a{LINE}pity.{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 362,
+    "offset": "0x27874a",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}さすがだね'''{CTRL_8205}それでこそボクのライバルだよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Splendid... That's my true{LINE}rival!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 363,
+    "offset": "0x27878a",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}キミなら,こんなジョウキョウでも{CTRL_8205}あきらめないんだろうね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I knew you wouldn't give{LINE}up,{LINE}even in a crisis like{LINE}this...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 364,
+    "offset": "0x2787d8",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}このままではダメだ'''{CTRL_8205}もっと'''もっと{K_279}くならないと!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}This isn't enough...{LINE}I must become even{LINE}stronger!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 365,
+    "offset": "0x278826",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}フッ'''そうこなくては!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... That's the{LINE}spirit!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 366,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 367,
+    "offset": "0x278852",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}おたがい,どのくらい{K_279}くなったか'''{CTRL_8205}たしかめようじゃないか!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Let's see how much{LINE}stronger{LINE}we've both become!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 368,
+    "offset": "0x2788a2",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}どうだい'''{K_274}{K_283}のボクは'''{CTRL_8205}ひとあじちがうだろう!?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}How's that? Today, I'm{LINE}completely{LINE}different from before!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 369,
+    "offset": "0x2788ec",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}ボクはおいつめられた{K_403}のキミの{K_279}さを{CTRL_8205}{K_300}っている'''だから{K_342}はぬかないっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I know how fierce you are{LINE}when{LINE}cornered... So I won't{LINE}hold back!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 370,
+    "offset": "0x278948",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}さぁ'''もっと{K_279}くなって,また{CTRL_8205}ボクの{K_263}にスガタを{K_308}せてくれ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Now... Become even{LINE}stronger{LINE}and face me once again!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 371,
+    "offset": "0x27899a",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}ふっ'''{CTRL_8205}さすがだね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Just as I{LINE}expected...{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 372,
+    "offset": "0x2789c6",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}むむっ!!!{CTRL_8205}まだまだこれからだっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Mmmph!! The real battle{LINE}begins now!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 373,
+    "offset": "0x2789fe",
+    "jp": "{FRAME_INIT}{PORTRAIT_17}{SFX_9d}{K_247}くっ!!!{CTRL_8205}まだまだシュギョウがたりないのかっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_17}{SFX_9d}Guh! Is my training still{LINE}lacking?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 374,
+    "offset": "0x278a3e",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}ちっ,まだなのか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Tch, not finished yet!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 375,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 376,
+    "offset": "0x278a62",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}さぁ'''そろそろ{CTRL_8205}ケッチャクをつけようじゃないか!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 377,
+    "offset": "0x278aa8",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}よし'''いいかんじだ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 378,
+    "offset": "0x278ad4",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}ここからがほんとうの{K_351}{K_352}'''{CTRL_8205}そうだろう?'''{SFX_00}!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 379,
+    "offset": "0x278b1c",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}キミというライバルがいたからこそ{CTRL_8205}ボクはここまで{K_279}くなれた'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 380,
+    "offset": "0x278b6c",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}フッ'''そうきたか!{CTRL_8205}ならばこちらは'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 381,
+    "offset": "0x278bac",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}ここからがほんとうの{K_351}{K_352}'''{CTRL_8205}そうだろう?'''{SFX_00}!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 382,
+    "offset": "0x278bf4",
+    "jp": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}{K_247}キミに{K_269}{K_299}えた{K_414}を'''{CTRL_8205}ボクは{K_376}{K_405}にうれしく{K_318}うよ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 383,
+    "offset": "0x278c3e",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}やるじゃないか'''!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 384,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 385,
+    "offset": "0x278c90",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほっほ!{CTRL_8205}たっぷりかわいがってあげるわっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 386,
+    "offset": "0x278cd4",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほっほ!{CTRL_8205}どうしたのかしら?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 387,
+    "offset": "0x278d0a",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほっほ!{CTRL_8205}カゼでもひいているのかしら?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 388,
+    "offset": "0x278d4a",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほっほ!{CTRL_8205}これがあなたの{K_376}{K_405}の{K_350}なのよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 389,
+    "offset": "0x278d8c",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほっほ!{CTRL_8205}ちょっと{K_342}かげんしすぎたかしら?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 390,
+    "offset": "0x278dd0",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}きぃ======っ!{CTRL_8205}ゆるさないわよっ!!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 391,
+    "offset": "0x278e0c",
+    "jp": "{FRAME_INIT}{PORTRAIT_19}{SFX_9e}{K_247}また{K_352}けたのね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 392,
+    "offset": "0x278e30",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}もうっ!{K_402}よそれっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 393,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 394,
+    "offset": "0x278e56",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}あのしかいの{K_331},けっこうセンスいいわね{CTRL_8205}'''って,もうバトル{K_280}まってるの?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 395,
+    "offset": "0x278eb2",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}ふ'''うつくしくないグランボを{CTRL_8205}{K_317}ってるからよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 396,
+    "offset": "0x278ef6",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}うつくしい'''うつくしすぎる{CTRL_8205}テンカイだわっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 397,
+    "offset": "0x278f38",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}お=っほっほ!このショウリで{K_380}{K_381}{K_255}の{CTRL_8205}{K_338}が{K_322}のうつくしさをみとめるのよっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 398,
+    "offset": "0x278f92",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}{K_274}やられたグランボはうつくしくない{CTRL_8205}グランボにケッテイよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 399,
+    "offset": "0x278fde",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}インチキよっ!よくわからないけど{CTRL_8205}インチキだわっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 400,
+    "offset": "0x279022",
+    "jp": "{FRAME_INIT}{PORTRAIT_19}{SFX_9e}{K_247}{K_322}って'''{K_352}け{K_408}も{CTRL_8205}うつくしいわ'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 401,
+    "offset": "0x27905a",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}そんなのル-ルいはんだわ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 402,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 403,
+    "offset": "0x279086",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}{K_274}{K_283}はカリブさまが{K_308}ているから{CTRL_8205}{K_352}けるわけにはいかないわっ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 404,
+    "offset": "0x2790d2",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}{K_274}たおしたグランボをカリブさまに{CTRL_8205}さしあげます!'''え?ダメ?ケチねぇ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 405,
+    "offset": "0x27912a",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}ああ'''カリブさまのよろこぶ{K_345}が{CTRL_8205}{K_346}にうかぶようだわ={K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 406,
+    "offset": "0x279172",
+    "jp": "{FRAME_INIT}{PORTRAIT_08}{SFX_9e}{K_247}カリブさま'''この{K_322}のうつくしい{K_348}い{CTRL_8205}'''{K_308}ていてくれましたか?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 407,
+    "offset": "0x2791c6",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}ちょっと,あなた!{CTRL_8205}{K_285}しは{K_375}をきかせなさいよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 408,
+    "offset": "0x279206",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}…そろそろ{K_307}いワケをかんがえた{K_408}が{CTRL_8205}{K_288}さそうね'''{K_246}{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 409,
+    "offset": "0x27924c",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}{K_346}にゴミが{K_268}ってまともに{K_348}えなかったわ!{CTRL_8205}{K_440}はカクゴすることね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 410,
+    "offset": "0x27929e",
+    "jp": "{FRAME_INIT}{PORTRAIT_18}{SFX_9e}{K_247}そ,その{K_342}があったのね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 411,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 412,
+    "offset": "0x2792ca",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}ついにキミと{K_348}えるんだね!{CTRL_8205}ボクはうれしいよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 413,
+    "offset": "0x27930a",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}まだまだ{K_375}はぬかないよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 414,
+    "offset": "0x279332",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}{K_378}{K_264}がカンジンだからね!{CTRL_8205}{K_386}めさせてもらうよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 415,
+    "offset": "0x279372",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}いい{K_351}{K_352}だったね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 416,
+    "offset": "0x279396",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}うっ'''さすがだね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 417,
+    "offset": "0x2793c0",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}{K_378}{K_264}の{K_378}{K_264}まであきらめないよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 418,
+    "offset": "0x2793f2",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}ありがとう'''いい{K_351}{K_352}だったね{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 419,
+    "offset": "0x279422",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}さすがだね'''しかしっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 420,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 421,
+    "offset": "0x27944e",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}さぁ,{K_274}{K_283}もいいアセをながそう!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 422,
+    "offset": "0x279480",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}{K_274}のはラッキ-だったよ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 423,
+    "offset": "0x2794a8",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}グランボバトルは{K_378}{K_264}の1{K_341}のHPが0に{CTRL_8205}なるまでわからない'''そうだろう?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 424,
+    "offset": "0x279504",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}キミが{K_351}ってもおかしくはなかったけど{CTRL_8205}'''ボクが{K_375}{K_350}で{K_285}しだけ{K_259}{K_357}ったね!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 425,
+    "offset": "0x279560",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}うっ'''いい{K_355}{K_356}だ!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 426,
+    "offset": "0x279586",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}まだ'''どこかにチャンスが{CTRL_8205}あるはずだっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 427,
+    "offset": "0x2795c4",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}ありがとう'''いい{K_351}{K_352}だったね{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 428,
+    "offset": "0x2795f4",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}さすがだ'''{CTRL_8205}そうカンタンには{K_351}たせてくれないね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 429,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 430,
+    "offset": "0x27963a",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}さぁ,お{K_420}さんに{K_378}{K_266}のバトルを{CTRL_8205}{K_308}せてあげようよ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}You're tougher than you{LINE}look!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 431,
+    "offset": "0x27967e",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}ユダンかい?キミらしくないな'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}I will never give up!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 432,
+    "offset": "0x2796b2",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}ここまではカンペキだ'''{CTRL_8205}{K_264}は'''!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Here I come! Prepare{LINE}yourself!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 433,
+    "offset": "0x2796ea",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}キミのしんのライバルはバルトじゃなくて{CTRL_8205}このボクさ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}Take that! How do you like{LINE}that?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 434,
+    "offset": "0x279730",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}うっ'''さすがだね'''{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_0f}{SFX_a5}This battle is mine!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 435,
+    "offset": "0x27975a",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}お{K_420}さんのためにも{K_378}{K_264}まで{CTRL_8205}あきらめないよっ!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}D-Damn it... How could{LINE}this be...!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 436,
+    "offset": "0x27979a",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}おめでとう'''キミの{K_351}ちだ{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet... I can still{LINE}fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 437,
+    "offset": "0x2797c6",
+    "jp": "{FRAME_INIT}{PORTRAIT_04}{SFX_9a}{K_247}そうこなくちゃね!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_07}{SFX_9d}Hmph... Is that all you've{LINE}got?{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  },
+  {
+    "id": 438,
+    "offset": "0x278c66",
+    "jp": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}{K_247}まだだ'''まだいける!!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
+    "en": "{FRAME_INIT}{PORTRAIT_16}{SFX_9d}Not yet...{LINE}I can still fight!!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+  }
+]
