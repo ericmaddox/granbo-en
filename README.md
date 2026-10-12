@@ -12,7 +12,8 @@ Released exclusively in Japan on December 28, 2001, *Granbo* was never officiall
 
 ## Features
 
-- **100% Script Translation**: All 187 pointer tables (3,367 text strings) translated into natural English.
+- **100% Script & Cutscene Translation**: All 187 pointer tables and 786 code literal pool sources (4,005 total text strings) translated into natural English with zero placeholders.
+- **Full Story & Cutscenes**: Every main story chapter, NPC interaction, boss scene, scripted cutscene, and ending credits sequence 100% translated.
 - **Full 151 Granbo Encyclopedia**: Complete monster names, battle abilities, lore descriptions, and Professor evolution advice for all 151 species.
 - **Saber Handbook & Guides**: All 24 in-game tutorial bulletins, hunting guides, and town rumors fully translated.
 - **Hardware-Accurate Word Wrapping**: Every dialogue line word-wrapped to $\le$ 27 characters per line to guarantee clean display on GBA LCD screens without edge clipping or text overflow.
@@ -24,16 +25,17 @@ Released exclusively in Japan on December 28, 2001, *Granbo* was never officiall
 
 | Subsystem | Scope | Status |
 | :--- | :---: | :---: |
-| **Main Story & Cutscene Dialogue** | 439 scenes | ✅ 100% English |
-| **Battle Moves, Skills & Items** | 1,790 entries | ✅ 100% English |
+| **Main Story & Cutscene Dialogue** | 1,790 entries (Table `0x2905B4`) | ✅ 100% English |
+| **Boss Events & Scripted Sequences** | 439 entries (Table `0x1A1568`) | ✅ 100% English |
 | **151 Monster Bestiary Profiles** | 755 entries (151 tables) | ✅ 100% English |
 | **Saber Handbook & Hunting Guides** | 140 entries (24 tables) | ✅ 100% English |
-| **Starter Granbos & Locations** | 73 entries | ✅ 100% English |
-| **Dungeons, Towers & Secret Portals** | 76 entries | ✅ 100% English |
-| **System UI, Menus & Commands** | 30 commands | ✅ 100% English |
-| **Official Saber Ranks & Badges** | 11 titles | ✅ 100% English |
+| **Field Triggers, Menus & Credits** | 650 entries (786 code sources) | ✅ 100% English |
+| **Starter Granbos & Locations** | 73 entries (Table `0x1AA48C`) | ✅ 100% English |
+| **Dungeons, Towers & Portals** | 76 entries (Table `0x293E34`) | ✅ 100% English |
+| **System UI, Menus & Commands** | 30 entries (Table `0x1A9A18`) | ✅ 100% English |
+| **Official Saber Ranks & Badges** | 11 entries | ✅ 100% English |
 | **Field Objects & Callouts** | 19 entries | ✅ 100% English |
-| **TOTAL** | **187 Tables (3,367 Strings)** | ✅ **100% Complete** |
+| **TOTAL** | **4,005 Text Strings (187 Tables + 786 Code Sources)** | ✅ **100% Complete** |
 
 ---
 
@@ -57,8 +59,8 @@ Released exclusively in Japan on December 28, 2001, *Granbo* was never officiall
 | File | Size | CRC32 | SHA-256 Checksum |
 | :--- | :---: | :---: | :--- |
 | **Source ROM (Japanese)** | 8,388,608 bytes | `0xCDD2E273` | `d11a31fa34801c24219df3d64876f9577ddfe30200ca65fe720e3ff8a9c8828b` |
-| **Target ROM (English)** | 16,777,216 bytes | `0x0D71B532` | `935a2263ac55365385b3098b07a9ae76c2c6316b7252f1c3947522a90c7855ee` |
-| **BPS Patch** | 16,777,245 bytes | `0x7EB6D5C9` | `9d5c609e1a410a88ef4a81cc69163c9546df1382d17151533f81a1f30e076f61` |
+| **Target ROM (English)** | 16,777,216 bytes | `0x3643F233` | `b43cef52d664da3e04b07a9b0a201d5e5137cab3f4873cb5c0edcbf1353279fa` |
+| **BPS Patch** | 16,777,245 bytes | `0x3DE1F0E4` | `e0dc75db39d844ea0b7a4271c4825852ff4ca4860c515ce64c173c4bee4620b2` |
 
 ---
 
