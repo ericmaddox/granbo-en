@@ -97,6 +97,3 @@ dump_table(0x1AA48C, 73, "text/translations/02_granbo_bestiary.json", "Granbo Be
 
 # 5. Extended Species & Items (76 strings)
 dump_table(0x293E34, 76, "text/translations/03_items_skills.json", "Items & Skills")
-
-# 6. System Options (16 strings)
-dump_table(0x26ABA8, 16, "text/translations/00_system_options.json", "System Menu Options")
