@@ -207,7 +207,8 @@ def test_production_readiness():
         "text/translations/03_items_skills.json",
         "text/translations/04_story_dialogue.json",
         "text/translations/05_events_cutscenes.json",
-        "text/translations/06_secondary_text.json"
+        "text/translations/06_secondary_text.json",
+        "text/translations/07_system_menus_events.json"
     ]
 
     total_text_entries = 0
@@ -276,6 +277,54 @@ def test_production_readiness():
     print(f"  BPS Patch SHA-256  : {patch_sha256}")
 
     print("  ✓ Test 6 Passed: BPS patch roundtrip and CRCs verified with 100% integrity.")
+
+    # -------------------------------------------------------------
+    # Test 7: Exhaustive 100% English Translation & Japanese Elimination
+    # -------------------------------------------------------------
+    print("\n[TEST 7] 100% English Translation & Japanese Text Elimination Verification")
+    all_json_files = [
+        ("01_system_ui.json", "System & UI Commands"),
+        ("02_granbo_bestiary.json", "Granbo Bestiary & Towns"),
+        ("03_items_skills.json", "Dungeons & Locations"),
+        ("04_story_dialogue.json", "Master Story Dialogue & Combat"),
+        ("05_events_cutscenes.json", "Cutscenes & Boss Events"),
+        ("06_secondary_text.json", "151 Bestiary, Handbook, Tutorials, Ranks"),
+        ("07_system_menus_events.json", "Field Triggers, Menus, Options, Credits")
+    ]
+
+    grand_total_entries = 0
+    grand_total_translated = 0
+    untranslated_items = []
+    japanese_residue = []
+
+    for fname, desc in all_json_files:
+        fpath = os.path.join("text/translations", fname)
+        data = json.load(open(fpath, encoding="utf-8"))
+        f_total = len(data)
+        f_trans = 0
+        for it in data:
+            grand_total_entries += 1
+            en = it.get("en", "").strip()
+            if en:
+                f_trans += 1
+                grand_total_translated += 1
+                # Check for lingering kana in translated English
+                clean_en = re.sub(r"\{[A-Za-z0-9_]+\}", "", en)
+                if re.search(r"[\u3040-\u30ff]", clean_en):
+                    japanese_residue.append((fname, it.get("id", it.get("offset")), clean_en))
+            else:
+                untranslated_items.append((fname, it.get("id", it.get("offset")), it.get("jp", "")))
+        pct = (f_trans / f_total * 100) if f_total > 0 else 100.0
+        print(f"  [{fname}] {f_trans}/{f_total} ({pct:.1f}%) translated - {desc}")
+
+    print(f"\n  Grand Total Game Text Strings: {grand_total_entries}")
+    print(f"  100% Translated English Strings : {grand_total_translated} ({grand_total_translated/grand_total_entries*100:.1f}%)")
+    print(f"  Untranslated Strings Remaining  : {len(untranslated_items)}")
+    print(f"  Japanese Residue in English Text: {len(japanese_residue)}")
+
+    assert len(untranslated_items) == 0, f"Found {len(untranslated_items)} untranslated strings!"
+    assert len(japanese_residue) == 0, f"Found {len(japanese_residue)} strings with Japanese residue in English text!"
+    print("  ✓ Test 7 Passed: 100.0% of all game text is translated to English with ZERO Japanese residue.")
 
     print("\n" + "=" * 70)
     print("ALL PRODUCTION READINESS CHECKS PASSED (100% PRODUCTION READY)")

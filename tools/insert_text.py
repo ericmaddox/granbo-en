@@ -167,6 +167,46 @@ def build_rom():
 
     print(f"[Secondary Text Engine] Repointed {repointed_sec_tables} tables ({repointed_sec_ptrs} pointers) -> 0x08800000+")
 
+    print("\n--- Compiling System Menus, Field Triggers, & Cutscenes (07 Dataset) ---")
+    with open("text/translations/07_system_menus_events.json", "r", encoding="utf-8") as f:
+        sys_strings = json.load(f)
+
+    sys_repoint_map = {}
+    sys_allocated = 0
+    for it in sys_strings:
+        text = it["en"] if it.get("en", "").strip() else it["jp"]
+        words = encode_text_string(text)
+        new_ptr = allocate_string(words)
+        new_gba_ptr = 0x08000000 + new_ptr
+        target_gba = 0x08000000 + it["target_int"]
+        sys_repoint_map[target_gba] = new_gba_ptr
+        sys_allocated += 1
+
+    # Map engine blank string literal (0x08285bb0) to compiled blank string at table 0x2905B4 index 1785
+    blank_ptr = struct.unpack("<I", rom[0x2905B4 + 1785*4 : 0x2905B4 + 1785*4 + 4])[0]
+    sys_repoint_map[0x08285BB0] = blank_ptr
+
+    # Repoint all recorded sources
+    sys_sources_repointed = 0
+    for it in sys_strings:
+        target_gba = 0x08000000 + it["target_int"]
+        new_gba_ptr = sys_repoint_map[target_gba]
+        for s in it.get("sources", []):
+            s_off = int(s, 16)
+            if s_off + 4 <= len(rom):
+                struct.pack_into("<I", rom, s_off, new_gba_ptr)
+                sys_sources_repointed += 1
+
+    # ROM-wide literal pool & script pointer scan across base 8MB
+    rom_wide_repointed = 0
+    for off in range(0, 0x800000 - 4, 4):
+        p = struct.unpack("<I", rom[off:off+4])[0]
+        if p in sys_repoint_map:
+            struct.pack_into("<I", rom, off, sys_repoint_map[p])
+            rom_wide_repointed += 1
+
+    print(f"[System & Event Engine] Compiled {sys_allocated} strings, repointed {sys_sources_repointed} sources, {rom_wide_repointed} ROM-wide code pointers -> 0x08800000+")
+
     # Recalculate GBA header complement checksum (at 0xBD)
     chk = 0
     for b in rom[0xA0:0xBD]:

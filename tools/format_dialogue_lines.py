@@ -122,7 +122,8 @@ def main():
     files = [
         ("text/translations/04_story_dialogue.json", 27),
         ("text/translations/05_events_cutscenes.json", 27),
-        ("text/translations/06_secondary_text.json", 27)
+        ("text/translations/06_secondary_text.json", 27),
+        ("text/translations/07_system_menus_events.json", 27)
     ]
     for p, ml in files:
         process_file(p, max_len=ml)

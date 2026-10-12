@@ -999,7 +999,7 @@
     "id": 166,
     "offset": "0x275f36",
     "jp": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}{K_247}ひきぎわを{K_308}あやまりましたね!{K_248}{WAIT}{PORTRAIT_09}{SFX_9f}{K_247}これであなたも{K_281}わりです!{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
-    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}You misjudged when to{LINE}retreat!{WAIT}{PORTRAIT_09}{SFX_9f}Now this is the end{LINE}for you!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+    "en": "{FRAME_INIT}{PORTRAIT_09}{SFX_9f}You misjudged when to{LINE}retreat!{WAIT}{PORTRAIT_09}{SFX_9f}Now this is the{LINE}end{LINE}for you!{DISP_STATE}{STATE_CLEAR}{BREAK}"
   },
   {
     "id": 167,
@@ -1227,7 +1227,7 @@
     "id": 204,
     "offset": "0x2766be",
     "jp": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}{K_247}ま,まさか'''{K_248}{WAIT}{PORTRAIT_1f}{SFX_a5}{K_247}お{K_263},{K_337}{K_325}じゃなくてカンブを{CTRL_8205}{K_346}ざしているのか'''?{K_248}{DISP_STATE}{STATE_CLEAR}{BREAK}",
-    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}C-Could it be...{WAIT}{PORTRAIT_1f}{SFX_a5}Are you{LINE}aiming to become an officer{LINE}instead of a minion...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
+    "en": "{FRAME_INIT}{PORTRAIT_1f}{SFX_a5}C-Could it be...{WAIT}{PORTRAIT_1f}{SFX_a5}Are you{LINE}aiming to become an{LINE}officer{LINE}instead of a minion...?!{DISP_STATE}{STATE_CLEAR}{BREAK}"
   },
   {
     "id": 205,

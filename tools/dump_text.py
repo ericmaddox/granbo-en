@@ -95,8 +95,8 @@ dump_table(0x1A9A18, 30, "text/translations/01_system_ui.json", "System & UI Com
 # 4. Bestiary / Core Parts (73 strings)
 dump_table(0x1AA48C, 73, "text/translations/02_granbo_bestiary.json", "Granbo Bestiary & Parts")
 
-# 5. Extended Species & Items (88 strings)
-dump_table(0x293E34, 88, "text/translations/03_items_skills.json", "Items & Skills")
+# 5. Extended Species & Items (76 strings)
+dump_table(0x293E34, 76, "text/translations/03_items_skills.json", "Items & Skills")
 
 # 6. System Options (16 strings)
 dump_table(0x26ABA8, 16, "text/translations/00_system_options.json", "System Menu Options")
