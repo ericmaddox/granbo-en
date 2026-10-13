@@ -25,3 +25,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Emulator tools
+tools/mgba/

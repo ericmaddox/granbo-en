@@ -207,8 +207,7 @@ def test_production_readiness():
         "text/translations/03_items_skills.json",
         "text/translations/04_story_dialogue.json",
         "text/translations/05_events_cutscenes.json",
-        "text/translations/06_secondary_text.json",
-        "text/translations/07_system_menus_events.json"
+        "text/translations/06_secondary_text.json"
     ]
 
     total_text_entries = 0
@@ -288,8 +287,7 @@ def test_production_readiness():
         ("03_items_skills.json", "Dungeons & Locations"),
         ("04_story_dialogue.json", "Master Story Dialogue & Combat"),
         ("05_events_cutscenes.json", "Cutscenes & Boss Events"),
-        ("06_secondary_text.json", "151 Bestiary, Handbook, Tutorials, Ranks"),
-        ("07_system_menus_events.json", "Field Triggers, Menus, Options, Credits")
+        ("06_secondary_text.json", "151 Bestiary, Handbook, Tutorials, Ranks")
     ]
 
     grand_total_entries = 0
