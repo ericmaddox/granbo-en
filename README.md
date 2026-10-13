@@ -33,7 +33,7 @@ This project delivers full English localization across all dialog, story sequenc
 
 ## Translation Scope
 
-All 3,355 text strings across all 187 pointer tables have been translated into English with zero residual Japanese text and zero placeholders.
+All 8,430 text strings across all 187 pointer tables, 226 system UI code literals, and 254 map event script pools have been translated into English with zero residual Japanese text and zero placeholders.
 
 | Subsystem | Dataset File | Entries | Status |
 | :--- | :--- | :---: | :--- |
@@ -43,7 +43,9 @@ All 3,355 text strings across all 187 pointer tables have been translated into E
 | **Master Story and Dialogue** | `04_story_dialogue.json` | 1,790 | Complete |
 | **Boss Events and Cutscenes** | `05_events_cutscenes.json` | 439 | Complete |
 | **151 Encyclopedia and Handbook** | `06_secondary_text.json` | 947 | Complete |
-| **Total Translated Text** | **6 Datasets (187 Tables)** | **3,355** | **100% Complete** |
+| **System UI Prompts & Dialogs** | `07_system_ui_prompts.json` | 226 | Complete |
+| **Map Event Script Dialogue Pools** | `08_script_dialogue_pools.json` | 4,849 | Complete |
+| **Total Translated Text** | **8 Datasets (441 Subsystems)** | **8,430** | **100% Complete** |
 
 ---
 
@@ -71,8 +73,8 @@ All 3,355 text strings across all 187 pointer tables have been translated into E
 | Target | Size (Bytes) | CRC32 | SHA-256 Checksum |
 | :--- | :---: | :---: | :--- |
 | **Source ROM (Japanese)** | 8,388,608 | `0xCDD2E273` | `d11a31fa34801c24219df3d64876f9577ddfe30200ca65fe720e3ff8a9c8828b` |
-| **Target ROM (English)** | 16,777,216 | `0xB0B9E4A5` | `f495f04141361515a31bfe16b08b03973ea27d0445f2ee4e8a2a2b7b9b8b74b4` |
-| **BPS Patch** | 16,777,245 | `0x30A7D5B3` | `379fbf098f70bda6e628dce1aa73441dbee50f8ad30192bc3910a5cbe5773284` |
+| **Target ROM (English)** | 16,777,216 | `0x9A974571` | `bc9299de0e8a2121254d9c12e965242f2180f151cb8d40b045ed6c28d3fa1774` |
+| **BPS Patch** | 16,777,245 | `0x44CBFF0F` | `55094d99118c9f6eba0029f225d4b4cb04536be1c84b6196b62a69d6c4f2bc88` |
 
 ---
 
@@ -86,7 +88,7 @@ The project includes an automated test harness in `tools/test_production_readine
 4. **Encoding and Termination**: Verifies word glyph bounds and string termination (`0x8500` or `0x0000`) across all compiled strings.
 5. **Text Formatting**: Checks all dialog entries against the 27-character visible text line width threshold.
 6. **BPS Roundtrip Integrity**: Validates source CRC32, target CRC32, patch CRC32, and SHA-256 bit-for-bit parity.
-7. **Translation Completeness**: Confirms 100.0% English translation coverage and zero Japanese residue across all 4,005 game strings.
+7. **Translation Completeness**: Confirms 100.0% English translation coverage and zero Japanese residue across all 8,430 game strings.
 
 ---
 

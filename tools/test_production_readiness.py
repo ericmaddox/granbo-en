@@ -287,7 +287,9 @@ def test_production_readiness():
         ("03_items_skills.json", "Dungeons & Locations"),
         ("04_story_dialogue.json", "Master Story Dialogue & Combat"),
         ("05_events_cutscenes.json", "Cutscenes & Boss Events"),
-        ("06_secondary_text.json", "151 Bestiary, Handbook, Tutorials, Ranks")
+        ("06_secondary_text.json", "151 Bestiary, Handbook, Tutorials, Ranks"),
+        ("07_system_ui_prompts.json", "System UI Prompts & Dialog Prompts"),
+        ("08_script_dialogue_pools.json", "254 Map Event Script Dialogue Pools")
     ]
 
     grand_total_entries = 0
@@ -298,20 +300,27 @@ def test_production_readiness():
     for fname, desc in all_json_files:
         fpath = os.path.join("text/translations", fname)
         data = json.load(open(fpath, encoding="utf-8"))
-        f_total = len(data)
+        if fname == "08_script_dialogue_pools.json":
+            # Extract flat string list from all pools
+            items = [s for pool in data for s in pool["strings"]]
+        else:
+            items = data
+
+        f_total = len(items)
         f_trans = 0
-        for it in data:
+        for it in items:
             grand_total_entries += 1
-            en = it.get("en", "").strip()
-            if en:
+            en = it.get("en", "")
+            jp_clean = re.sub(r"\{[A-Za-z0-9_]+\}", "", it.get("jp", "")).strip()
+            if en.strip() or not jp_clean:
                 f_trans += 1
                 grand_total_translated += 1
-                # Check for lingering kana in translated English
+                # Check for lingering Japanese (hiragana, katakana, kanji) in translated English
                 clean_en = re.sub(r"\{[A-Za-z0-9_]+\}", "", en)
-                if re.search(r"[\u3040-\u30ff]", clean_en):
-                    japanese_residue.append((fname, it.get("id", it.get("offset")), clean_en))
+                if re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", clean_en):
+                    japanese_residue.append((fname, it.get("id", it.get("offset", it.get("rom_offset"))), clean_en))
             else:
-                untranslated_items.append((fname, it.get("id", it.get("offset")), it.get("jp", "")))
+                untranslated_items.append((fname, it.get("id", it.get("offset", it.get("rom_offset"))), it.get("jp", "")))
         pct = (f_trans / f_total * 100) if f_total > 0 else 100.0
         print(f"  [{fname}] {f_trans}/{f_total} ({pct:.1f}%) translated - {desc}")
 

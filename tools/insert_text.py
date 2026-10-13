@@ -167,6 +167,70 @@ def build_rom():
 
     print(f"[Secondary Text Engine] Repointed {repointed_sec_tables} tables ({repointed_sec_ptrs} pointers) -> 0x08800000+")
 
+    print("\n--- Compiling System UI Prompts Engine (Code Literal References) ---")
+    with open("text/translations/07_system_ui_prompts.json", "r", encoding="utf-8") as f:
+        ui_prompts = json.load(f)
+
+    repointed_ui_literals = 0
+    for it in ui_prompts:
+        text = it["en"] if it.get("en", "").strip() else it["jp"]
+        words = encode_text_string(text)
+        new_ptr = allocate_string(words)
+        new_gba_ptr = 0x08000000 + new_ptr
+        for src in it.get("sources", []):
+            struct.pack_into("<I", rom, int(src, 16), new_gba_ptr)
+            repointed_ui_literals += 1
+
+    print(f"[System UI Prompts] Allocated {len(ui_prompts)} strings, repointed {repointed_ui_literals} code literals -> 0x08800000+")
+
+    print("\n--- Compiling Map Script Dialogue Engine (254 Pools, 4,849 Strings) ---")
+    with open("text/translations/08_script_dialogue_pools.json", "r", encoding="utf-8") as f:
+        script_pools = json.load(f)
+
+    total_pool_strings = 0
+    repointed_pool_lits = 0
+    repointed_tbl_lits = 0
+
+    for pool in script_pools:
+        # Align pool base to 4 bytes
+        if alloc_cur % 4 != 0:
+            alloc_cur += (4 - (alloc_cur % 4))
+        new_pool_offset = alloc_cur
+        gba_pool_addr = 0x08000000 + new_pool_offset
+
+        hw_offsets = []
+        for s in pool["strings"]:
+            total_pool_strings += 1
+            rel_bytes = alloc_cur - new_pool_offset
+            assert rel_bytes % 2 == 0
+            hw_offsets.append(rel_bytes // 2)
+
+            text = s["en"] if s.get("en", "").strip() else s["jp"]
+            words = encode_text_string(text)
+            data = struct.pack(f"<{len(words)}H", *words)
+            rom[alloc_cur : alloc_cur + len(data)] = data
+            alloc_cur += len(data)
+
+        # Align offset table to 4 bytes
+        if alloc_cur % 4 != 0:
+            alloc_cur += (4 - (alloc_cur % 4))
+        new_tbl_offset = alloc_cur
+        gba_tbl_addr = 0x08000000 + new_tbl_offset
+
+        tbl_data = struct.pack(f"<{len(hw_offsets)}H", *hw_offsets)
+        rom[new_tbl_offset : new_tbl_offset + len(tbl_data)] = tbl_data
+        alloc_cur += len(tbl_data)
+
+        for lit in pool.get("pool_lits", []):
+            struct.pack_into("<I", rom, int(lit, 16), gba_pool_addr)
+            repointed_pool_lits += 1
+
+        for lit in pool.get("tbl_lits", []):
+            struct.pack_into("<I", rom, int(lit, 16), gba_tbl_addr)
+            repointed_tbl_lits += 1
+
+    print(f"[Map Script Engine] Allocated {len(script_pools)} pools ({total_pool_strings} strings), repointed {repointed_pool_lits} pool literals + {repointed_tbl_lits} table literals -> 0x08800000+")
+
 
 
     # Recalculate GBA header complement checksum (at 0xBD)
